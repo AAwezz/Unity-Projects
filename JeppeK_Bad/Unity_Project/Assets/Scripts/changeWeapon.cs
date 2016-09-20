@@ -4,6 +4,8 @@ using System.Collections;
 public class changeWeapon : MonoBehaviour
 {
     public string weapon;
+    public int akdmg = 3;
+    public int shutgundmg = 4;
     // Animations
     private float aniTimeElapsed;
     private float aniTime = 0.5f;
@@ -48,6 +50,14 @@ public class changeWeapon : MonoBehaviour
         {
             AudioM.GetComponent<AudioController>().startNyt();
             col.gameObject.SendMessage("ChangeWeapon",weapon);
+            if (weapon == "Ak47")
+            {
+                GameMasterPublicVariables.dmg = GameMasterPublicVariables.dmg + akdmg;
+            }
+            else
+            {
+                GameMasterPublicVariables.dmg = GameMasterPublicVariables.dmg + shutgundmg;
+            }
             Destroy(gameObject);
         }
     }

@@ -11,6 +11,7 @@ public class BulletCollider : MonoBehaviour {
     void Start()
     {
         RB = gameObject.GetComponent<Rigidbody>();
+        damagePerShot = GameMasterPublicVariables.dmg;
     }
 
     void Update()
@@ -37,11 +38,6 @@ public class BulletCollider : MonoBehaviour {
         direction = dir;
     }
 
-    void setDmg(int dmg)
-    {
-        damagePerShot = dmg;
-    }
-
     void setBullet(GameObject bul)
     {
         bullet = bul;
@@ -51,7 +47,6 @@ public class BulletCollider : MonoBehaviour {
     {
         if (col.gameObject.tag == "AI")
         {
-            Debug.Log("AI DOWN");
             EnemyHealth enemyHealth = col.gameObject.GetComponent<EnemyHealth>();
             if (enemyHealth != null)
             {
@@ -62,7 +57,6 @@ public class BulletCollider : MonoBehaviour {
         }
         else if (col.gameObject.tag == "Wall")
         {
-            Debug.Log("HIT A WALL");
             Destroy(bullet);
             Destroy(gameObject);
         }

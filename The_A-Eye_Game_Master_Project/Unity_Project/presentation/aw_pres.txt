@@ -1,0 +1,85 @@
+First
+In the first iteration, we created the basics of the game and tried to answer the 2 subquestions from our problem formulation. 
+Is it possible know what the player is looking at? and With that knowledge, is it then possible to make an AI act out from that data? 
+
+The first thing we looked into, was how to integrate The EyeTribe eye tracker into Unity. 
+This was easier than expected, because The EyeTribe had made their own plug-in for Unity and put it on a public github repository. 
+We used their AirCraft Unity Sample, because its used the position you lokoed at, to control a plane, and that was exactly what we needed in our game. 
+Something that The EyeTribe didn't have, was a way to detect if you blinked. We therefore expanded the plug-in to detect blinks between 150-400 ms.
+
+the environment of the game, is the inside of a house. The house is made of cubes which we have modelled into walls, a floor and a roof. 
+We have used Unity Asset Store to find the interior of our house. All the asset we have used, are free, and you can just import them into your unity project. 
+This is what we ended up with after the decoration of our house. 
+We made a toilet, bedroom, living room, lobby, hobby room with a piano, an office and then we had one room left, so we made it the spawning point for our monster. 
+As a last thing we added lights, to give it a feeling of a horror scene, and it ended up looking like this.
+
+The next thing we added was the monster. The monster is a Ghoul, which is what you see down here. 
+The Ghoul AI is a simple decision tree. It checks if the Ghoul can see the player or not. If yes, it goes to last seen player position. 
+If not, it chosen a random destination, which is points we have selected around the house. 
+When it reaches a random destination, we either make it find a new destination or make it patrol, 
+which is where we make it spin in the room, to see if it can locate the player. And then it starts over.
+
+To make the AI move we used Unity's built-in function NavMesh. here you can see the house without navmesh. 
+And then when we put navmesh on. Which is shown by the blue area on the floor. 
+all the objects, like the walls and models, have a component NavMeshObstacle, so the ghoul or player cant go through them. 
+
+With the basics of the game, we know wanted too see if the eye tracker could tell an Level Managing AI to act, 
+out from what the player is looking at.  To do this, we made some trigger events around the house. And in order to trigger these events, 
+you would have to look at an specific object in the game. To know what a player looked at, we cast a ray from the players position, 
+to the point the player is looking. If the ray hits one of our specifics object, which is made specific by a tag, 
+then we register the amount of time the object is being looked at, so you dont just trigger it by a glance, 
+but when you actually look at it. Here is a video demonstration of a trigger event by eyesight: Video med øjet, og hvor man trigger stolen
+
+As you can see from the demo, it is fairly easy to detect what the palyer is looking at, 
+and make an AI act out from that, by draggin the chair over the floor. This is also called data mining on user behvaiour. 
+What you can also see, is that when you look at one specidif point, the eye is moving a little, so its not a 100% precise. 
+The distance to the eyetracker is also critical, since it makes the registration of your eyes better the closer and the more still your head is.
+
+Second
+The first results we got from testing, looked kinda like this. The blue graphs is the pupil dilation, 
+and this high red bar is when you press the door the first time. The other red bars is the triggers around the house. 
+The black lines are blinks. The thing with triggering with eyesight, was that some testers didn't look enoguh time on some of the objects, 
+and because of that the key wouldnt spawn. Therefore we had to tell players where to look, in order to make some of the events trigger. 
+
+We therefore added triggers by colliders instead. Colliders are areas, here seen by the green boxes, 
+that can detect if something is inside them, here the player. If the player is there, then we can tell an event to start. 
+This made the events easier to trigger, and therefore with a bigger chance spawn the key. It also made the runs go faster, 
+because they wouldn't have to look around the house as throrough as with eyesight. It also resulted in an event triggered, 
+with the players back turned to it, because the player could go backwards into a collider.
+
+Most of the results had a lot of noise in them, so it was impossible to get anything out from it. 
+But some of the results only had a small amounts of outliers. We removed these outliers with a median filter, 
+where you detect an outlier by taking the absolute value of the data minus the median and see if it's bigger than 3 times the standard deviation.
+
+to get a better overview, we collected all the tv events we could find without too much noise. 
+the first red line indicates when the turns on. Here the pupils have a tendency go decrease, m
+ainly because of the snowy picture on the screen, making a brigther environment. To explain this we can look at day and night. 
+During the day the iris of the eye, makes the pupils smaller, because you dont need to absorb so much light into your eye, 
+to be able to see. Where at night the iris makes your pupils bigger, because you need to absorb more light, 
+in order to see in the dark. At the sedon red line, the screamer appears. Here we can see a lot of different reactions in the pupil dilation. 
+The player can do whatever, and the player can also look wherever. We cant predict what the player is doing or looking at.  
+This is because we are in a dynamic encironment. 
+
+Third
+We tested the static environment on two different persons. One that was not so good with horror games, 
+which gave us this result. Here you can see a common reaction at every red line, which indicates a scare. 
+The other person we tested it on, said he was not so easy to scare, which gave us this result. 
+Here there is not a common reaction, but a more adaptive reaction. Since its the same scare we put at every interval, 
+this testperson adapts to the situation. The first time hes "oh my god", where at the next reaction hes more like "again, really?"
+ and at the last reaction hes more like "please stop, its not scary anymore". These reactions are what we call the Fight or Flight response. 
+according to scientific studies there is a relationship between the pupils and Locus Coeruleus activity. 
+LC is a part of the brain that involves physiological responses. The way it response it that it sends out Norepinephrine (NE) 
+which works like a hormone. When NE is realised by the sympathetic nervous system LC response to this and sends a signal that correlates with the pupil dilation. 
+
+Knowing this and looking at the figure that shows the Yerkes-Dodson Relationship, 
+the AI would use PEM to try and keep the player in the "Task engaged" state throughout the game, 
+by knowing the players pupil dilation. Here you can also see that if the player feels distracted, 
+the pupil dilation would begin to spike and have a lot of noise. This is what happened in the game because of the dynamic environment.
+
+Fourth
+In a static environment it is possible to get common reactions in the pupil dilation, 
+which could be used for a Player Experienced Modelling AI. With these results you could tell the AI to scare a person, 
+then wait for the pupils to go back to normal, and then try to scare the person again. If it is the same reaction, 
+that kind of scare will make the player think the game is exiting. If the reaction lowers a little bit, 
+the AI would know that the player needs some other kind of event, to keep the player on the toes. 
+It would end up working in a way, where the game would act out from the level of the players adrenalin/attention level.

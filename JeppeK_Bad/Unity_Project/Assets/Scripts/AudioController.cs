@@ -3,7 +3,7 @@ using System.Collections;
 
 public class AudioController : MonoBehaviour {
 
-    public AudioSource Intro, Loop, Ahaha, Ahaha2, Stiv, Coke, Mener, Mener2, Ligemeget, Nyt, Shot;
+    public AudioSource Intro, Loop, Ahaha, Ahaha2, Stiv, Coke, Mener, Mener2, Ligemeget, Nyt, Shot, Boevser, Kvaeler, cain1, cain2, ak47, ShutgunShot;
     private int count = 0;
     private float timer = 0;
     public float timeRepeat = 11;
@@ -23,7 +23,7 @@ public class AudioController : MonoBehaviour {
         }
         if (timer >= timeRepeat)
         {
-            int rand = Random.Range(1,5);
+            int rand = Random.Range(1,7);
             switch(rand)
             {
                 case 1:
@@ -40,6 +40,12 @@ public class AudioController : MonoBehaviour {
                     break;
                 case 5:
                     startMener2();
+                    break;
+                case 6:
+                    Boevser.Play();
+                    break;
+                case 7:
+                    Kvaeler.Play();
                     break;
                 default :
                     break;

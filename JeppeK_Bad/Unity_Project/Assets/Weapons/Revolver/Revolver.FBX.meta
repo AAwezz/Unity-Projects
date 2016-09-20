@@ -1,8 +1,44 @@
 fileFormatVersion: 2
 guid: 3ad539604b9b22c429501bf95865038b
 ModelImporter:
-  serializedVersion: 18
+  serializedVersion: 19
   fileIDToRecycleName:
+    100000: Bullet
+    100002: Bullet001
+    100004: Bullet002
+    100006: Bullet003
+    100008: Bullet004
+    100010: Cylinder
+    100012: Cylinder 1
+    100014: Dummy001
+    100016: Gun
+    100018: //RootNode
+    400000: Bullet
+    400002: Bullet001
+    400004: Bullet002
+    400006: Bullet003
+    400008: Bullet004
+    400010: Cylinder
+    400012: Cylinder 1
+    400014: Dummy001
+    400016: Gun
+    400018: //RootNode
+    2300000: Bullet
+    2300002: Bullet001
+    2300004: Bullet002
+    2300006: Bullet003
+    2300008: Bullet004
+    2300010: Cylinder
+    2300012: Cylinder 1
+    2300014: Gun
+    3300000: Bullet
+    3300002: Bullet001
+    3300004: Bullet002
+    3300006: Bullet003
+    3300008: Bullet004
+    3300010: Cylinder
+    3300012: Cylinder 1
+    3300014: Gun
     4300000: Cylinder
     4300002: Cylinder
     4300004: Bullet
@@ -11,6 +47,7 @@ ModelImporter:
     4300010: Bullet003
     4300012: Bullet004
     4300014: Gun
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -18,6 +55,7 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
+    resampleRotations: 1
     optimizeGameObjects: 0
     motionNodeName: 
     animationImportErrors: 
@@ -25,16 +63,16 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     animationCompression: 1
-    animationRotationError: .5
-    animationPositionError: .5
-    animationScaleError: .5
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
     clipAnimations: []
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .00999999978
+    globalScale: 0.01
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
@@ -51,20 +89,19 @@ ModelImporter:
     useFileScale: 0
   tangentSpace:
     normalSmoothAngle: 60
-    splitTangentsAcrossUV: 1
     normalImportMode: 0
-    tangentImportMode: 1
+    tangentImportMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
     human: []
     skeleton: []
-    armTwist: .5
-    foreArmTwist: .5
-    upperLegTwist: .5
-    legTwist: .5
-    armStretch: .0500000007
-    legStretch: .0500000007
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
     hasTranslationDoF: 0

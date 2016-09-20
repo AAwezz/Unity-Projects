@@ -1,16 +1,20 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
 public class PlayerMovement : MonoBehaviour {
 
-    public float speed = 2.0f;
+    public float speed = 7000f;
     public GameObject ak, shutgun, pistol, resBut;
+    public Text Score, Highscore;
 
     private Vector3 Pos;
 
     private Rigidbody RB;
 
     private bool collided;
+
+    private Camera mainCam;
 
     //Needed for double speed powerup
     bool boolDoubleSpeed = false;
@@ -22,14 +26,34 @@ public class PlayerMovement : MonoBehaviour {
     void Start () {
         RB = GetComponent<Rigidbody>();
         doubleSpeed = speed * 2;
+        mainCam = Camera.main;
+        Score.enabled = false;
+        Highscore.text = "Highscore: " + PlayerPrefs.GetInt("Score");
+        SpawnPowerUp.spawnedPowerUps = 0;
+        SpawnPowerUp.takenPowerUps = 0;
     }
 	
 	// Update is called once per frame
 
 
 	void Update () {
+        if (CountdownTimer.timeLeft <= 0)
+        {
+            youDead();
+        }
+        Pos = transform.localPosition;
+      if (Pos.y > 2.1 || Pos.y < 1.9)
+      {
+          Pos.y = 2;
+          transform.localPosition = Pos;
+          //RB.AddForce(new Vector3(0,-1,0) * Time.deltaTime * speed);
+      }
 
         //RB.velocity = Vector3.zero;
+        if (!mainCam.enabled)
+        {
+            return;
+        }
 
         Vector3 moveDir = Vector3.zero;
 
@@ -43,25 +67,25 @@ public class PlayerMovement : MonoBehaviour {
         if (Input.GetKey("w"))
         {
             //resetRB();
-            moveDir = moveDir + transform.forward;
+            moveDir = moveDir + transform.forward.normalized;
         }
 
         if (Input.GetKey("s"))
         {
             //resetRB();
-            moveDir = moveDir - transform.forward;
+            moveDir = moveDir - transform.forward.normalized;
         }
 
         if (Input.GetKey("d"))
         {
             //resetRB();
-            moveDir = moveDir + transform.right;
+            moveDir = moveDir + transform.right.normalized;
         }
 
         if (Input.GetKey("a"))
         {
             //resetRB();
-            moveDir = moveDir - transform.right;
+            moveDir = moveDir - transform.right.normalized;
         }
 
         if (Input.anyKey == false)
@@ -70,7 +94,7 @@ public class PlayerMovement : MonoBehaviour {
         }
 
         //Move the player according to the appropriate force
-        //moveDir.y = 2;
+        //moveDir.y = 0;
         RB.AddForce(moveDir * speed * Time.deltaTime);
 
         // Restricting movement velocity.
@@ -82,17 +106,30 @@ public class PlayerMovement : MonoBehaviour {
         RB.velocity = clampedVelocity;
 
         //make sure the player dosent start flying because of physics
-        //Pos = transform.localPosition;
-        //Pos.y = 2;
-        //transform.localPosition = Pos;
+      
     }
 
     void OnCollisionEnter(Collision col)
     {
         if (col.gameObject.tag == "AI")
         {
-            resBut.SetActive(true);
+            youDead();
         }
+    }
+
+    public void youDead()
+    {
+        Score.enabled = true;
+        if (PlayerPrefs.GetInt("Score") < GameMasterPublicVariables.killedAI)
+        {
+            PlayerPrefs.SetInt("Score", GameMasterPublicVariables.killedAI);
+            Highscore.text = "Highscore: " + PlayerPrefs.GetInt("Score");
+        }
+        Score.text = "Score: " + GameMasterPublicVariables.killedAI;
+        resBut.SetActive(true);
+        Cursor.visible = true;
+        Cursor.lockState = CursorLockMode.None;
+        Time.timeScale = 0;
     }
 
     void ChangeWeapon(string weapon)

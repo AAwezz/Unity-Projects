@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <Phrases>
+    <Hello>Hello World!</Hello>
+    <StartGame>Start game</StartGame>
+    <Credits>Credits</Credits>
+    <Title>Skyphant</Title>
+    <Score>Your score: </Score>
+    <HighScore>Highscore: </HighScore>
+  </Phrases>
+  <LanguageNames>
+    <English>English</English>
+    <Danish>Dansk</Danish>
+  </LanguageNames>
+  <TorurialName>English</TorurialName>
+  <Credits>Game Director	
+Klaus Tue Madsen 
+
+Art Director	
+Julie Tidsvilde Zintel
+
+Game Designer
+Simon Bentzen
+
+Project Manager	
+Amanda Natalie Rasmussen 
+
+CG Artists	
+Rosen Milev
+Nadia Hamza 
+
+Lead Programmer	
+Ivan Dimov 
+
+Programmers	
+Anders Wessberg 
+Peter Troelsen
+Tomas Moesgaard
+
+Pipeline Programmer	
+Veselin Yanakiev
+
+QA Programmer	
+Bo Olsen
+
+QA and UX	
+Dennis Godtfredsen
+Steffen Nygaard
+
+Audio Designer	
+Majbritt Løfgreen
+
+Level Designer
+Nicholas Bukdahl</Credits>
+</Root>

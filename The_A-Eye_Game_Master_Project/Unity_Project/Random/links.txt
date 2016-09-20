@@ -1,0 +1,68 @@
+blink when we are scared
+http://sciencenordic.com/your-fear-reaction-lightning-quick
+
+Horror Music:
+https://www.youtube.com/watch?v=p9XMd2eAy_4
+
+Light Bulb:
+https://www.youtube.com/watch?v=SSsZUMWPYbM
+
+Metal door open:
+https://www.youtube.com/watch?v=_r7cJiciN40
+
+Starting music:
+https://www.youtube.com/watch?v=1vRqbDVUUk8
+
+Dragging sound:
+https://www.youtube.com/watch?v=p0NPO180xFA
+
+Piano tune:
+https://www.youtube.com/watch?v=7umg6ZrIEH8
+
+Scare sound:
+https://www.youtube.com/watch?v=36uutyEKt4o
+
+Toilet Flush sound:
+https://www.youtube.com/watch?v=7-COxzRtOEU
+
+TV flicker sound:
+https://www.youtube.com/watch?v=7rVt2b80L-A
+
+Scary voice:
+https://www.youtube.com/watch?v=d2-ICK9rVWI
+
+Screamer:
+https://www.youtube.com/watch?v=yPZ8lFconVA&nohtml5=False
+
+
+TO DO
+	after e press
+get monster to appear at the end of hallway, after the door have opened.
+So when the player turns around the wall, make scare sound.
+
+	piano room
+when you look at "point" on the piano, high note plays and lights goes out.
+scary piano melody starts playing, mby
+
+	work room
+when you look at the chair, the light starts flickering and the chair moves
+
+	big room
+look at "something" on glass table. lights goes out and tv starts flickering.
+if you look at the screen, play high scream/sound.
+if you run put everything back to normal
+
+
+SOUNDS NEEDED
+piano scare sound
+tv flimmer sound
+clock sound
+toilet flush sound
+scream sound
+different screaky sounds
+wall schract sound
+monster roar sounds
+jumping in bed sound
+sink dripping sound
+footstep sound
+ghost sounds

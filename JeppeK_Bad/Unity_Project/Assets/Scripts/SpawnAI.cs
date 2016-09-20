@@ -4,15 +4,15 @@ using System.Collections;
 public class SpawnAI : MonoBehaviour {
     public GameObject AI;
     public int startEnemies = 10;
-    public float enemyIncreaseTimer = 10.0f;
 
-    int x, z, numberOfAIsStart = 0, desiredNumberOfAIs = 0;
+    int x, z, numberOfAIsStart = 0;
+    public static int desiredNumberOfAIs = 0;
     private float timeElapsed = 0;
     private GameObject player;
     private Vector3 playerPos;
 	// Use this for initialization
 	void Start () {
-
+        startEnemies = 10;
         player = GameObject.FindGameObjectWithTag("Player");
 
         desiredNumberOfAIs = startEnemies;
@@ -29,12 +29,13 @@ public class SpawnAI : MonoBehaviour {
 
         int numberOfAis = GameMasterPublicVariables.spawnedAI - GameMasterPublicVariables.killedAI;
 
-        timeElapsed += Time.deltaTime;
+        //timeElapsed += Time.deltaTime;
 
-        if (timeElapsed > enemyIncreaseTimer) {
-            desiredNumberOfAIs += 1;
-            timeElapsed = 0;
-        }
+        //if (timeElapsed > GameMasterPublicVariables.enemyIncreaseTimer && AIMaxLimit > desiredNumberOfAIs)
+        //{
+        //    desiredNumberOfAIs += 1;
+        //    timeElapsed = 0;
+        //}
 
         if (numberOfAis < desiredNumberOfAIs)
         {

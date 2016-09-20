@@ -1,0 +1,8 @@
+Where should we put the data analyses, 
+that we changed some triggers, added triggers, added hampel/median filter
+
+how to approach our data
+GAME RUNS - cut out the visible data at certain triggers,
+to show that sometimes it works and sometimes it doesnt
+
+same for color and scare test

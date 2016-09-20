@@ -1,0 +1,3081 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Take 001
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .999990582, y: -0, z: 0, w: .00434173783}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .999990582, y: -0, z: 0, w: .00434173783}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0962934718, y: 0, z: -0, w: .995352983}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.0962934718, y: 0, z: -0, w: .995352983}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.119833402, y: 0, z: -0, w: .992794037}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.119833402, y: 0, z: -0, w: .992794037}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.230863661, y: 0, z: -0, w: .972986162}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.230863661, y: 0, z: -0, w: .972986162}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.46744597, y: 0, z: -0, w: .88402164}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.46744597, y: 0, z: -0, w: .88402164}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .151232675, y: -.278946102, z: -.45198682, w: .833682001}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .151232675, y: -.278946102, z: -.45198682, w: .833682001}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .119077936, y: -.170433894, z: .366234988, w: .906997621}
+        inSlope: {x: .757651091, y: -1.08441138, z: -.12005496, w: -.297323227}
+        outSlope: {x: .757651091, y: -1.08441138, z: -.12005496, w: -.297323227}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: .150646731, y: -.215617701, z: .361232698, w: .894609153}
+        inSlope: {x: .751835942, y: -1.07608819, z: -.133998871, w: -.331855059}
+        outSlope: {x: .751835942, y: -1.07608819, z: -.133998871, w: -.331855059}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .181730926, y: -.260107905, z: .355068415, w: .879343033}
+        inSlope: {x: .180397749, y: -.258199722, z: -.0338891856, w: -.0839274228}
+        outSlope: {x: .180397749, y: -.258199722, z: -.0338891856, w: -.0839274228}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: .135501206, y: -.193940192, z: .363787353, w: .900935829}
+        inSlope: {x: -.559223235, y: .800405324, z: .0939166546, w: .232589006}
+        outSlope: {x: -.559223235, y: .800405324, z: .0939166546, w: .232589006}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .119077936, y: -.170433894, z: .366234988, w: .906997621}
+        inSlope: {x: -.394158572, y: .564151287, z: .0587432534, w: .145483047}
+        outSlope: {x: -.394158572, y: .564151287, z: .0587432534, w: .145483047}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0293034725, y: -.205836281, z: .0827068165, w: .974644721}
+        inSlope: {x: -.174127176, y: 1.22312093, z: .0193610787, w: .228157997}
+        outSlope: {x: -.174127176, y: 1.22312093, z: .0193610787, w: .228157997}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: .0220481735, y: -.154872909, z: .0835135281, w: .984151304}
+        inSlope: {x: -.174852371, y: 1.22821486, z: .0166142285, w: .195787668}
+        outSlope: {x: -.174852371, y: 1.22821486, z: .0166142285, w: .195787668}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .0147324428, y: -.103485048, z: .0840913355, w: .99096036}
+        inSlope: {x: -.0421929024, y: .296375424, z: .00368285272, w: .043398153}
+        outSlope: {x: -.0421929024, y: .296375424, z: .00368285272, w: .043398153}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: .0255502425, y: -.179472476, z: .0831535608, w: .97990936}
+        inSlope: {x: .129256487, y: -.907935858, z: -.0133633912, w: -.15747714}
+        outSlope: {x: .129256487, y: -.907935858, z: -.0133633912, w: -.15747714}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .0293034725, y: -.205836281, z: .0827068165, w: .974644721}
+        inSlope: {x: .0900775418, y: -.632731497, z: -.0107218651, w: -.126351386}
+        outSlope: {x: .0900775418, y: -.632731497, z: -.0107218651, w: -.126351386}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_ear_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00208061212, y: -.207901284, z: .0652570575, w: .975968361}
+        inSlope: {x: .0373650156, y: 3.73363137, z: .0327946544, w: .490470886}
+        outSlope: {x: .0373650156, y: 3.73363137, z: .0327946544, w: .490470886}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: -.000523736351, y: -.052333314, z: .0666235015, w: .996404648}
+        inSlope: {x: .0375197902, y: 3.74909449, z: .0131088495, w: .196053743}
+        outSlope: {x: .0375197902, y: 3.74909449, z: .0131088495, w: .196053743}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .00104603719, y: .104523234, z: .0663494617, w: .992306173}
+        inSlope: {x: .00907911826, y: .907213092, z: .000880479114, w: .0131671317}
+        outSlope: {x: .00907911826, y: .907213092, z: .000880479114, w: .0131671317}
+        tangentMode: 0
+      - time: .125
+        value: {x: .000232856575, y: .0232677627, z: .0666968748, w: .99750191}
+        inSlope: {x: -.0278804898, y: -2.78590178, z: -.00216284348, w: -.0323460028}
+        outSlope: {x: -.0278804898, y: -2.78590178, z: -.00216284348, w: -.0323460028}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.00127733708, y: -.12763527, z: .0661692247, w: .989610672}
+        inSlope: {x: -.0277616251, y: -2.77402854, z: -.0172778089, w: -.258402616}
+        outSlope: {x: -.0277616251, y: -2.77402854, z: -.0172778089, w: -.258402616}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.00208061212, y: -.207901284, z: .0652570575, w: .975968361}
+        inSlope: {x: -.0192786045, y: -1.92638481, z: -.0218920168, w: -.327415556}
+        outSlope: {x: -.0192786045, y: -1.92638481, z: -.0218920168, w: -.327415556}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_ear_C/elephant_keepSmoothIn_Unity_REF:L_ear_D
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -.0383765213, w: .999263346}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: -0, z: -.0383765213, w: .999263346}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_ear_C/elephant_keepSmoothIn_Unity_REF:L_ear_D/elephant_keepSmoothIn_Unity_REF:L_flappyEarStart_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_ear_C/elephant_keepSmoothIn_Unity_REF:L_ear_D/elephant_keepSmoothIn_Unity_REF:L_flappyEarStart_A/elephant_keepSmoothIn_Unity_REF:L_flappyEarStart_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_ear_C/elephant_keepSmoothIn_Unity_REF:L_ear_D/elephant_keepSmoothIn_Unity_REF:L_flappyEarStart_A/elephant_keepSmoothIn_Unity_REF:L_flappyEarStart_B/elephant_keepSmoothIn_Unity_REF:L_flappyEar_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0523148887, y: -.00148502074, z: .0283358842, w: .998227477}
+        inSlope: {x: 1.25555742, y: .0356405005, z: .000933229923, w: .0328774452}
+        outSlope: {x: 1.25555742, y: .0356405005, z: .000933229923, w: .0328774452}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 3.10047321e-09, y: 8.80106543e-11, z: .0283747688, w: .999597371}
+        inSlope: {x: 1.2555573, y: .0356405005, z: -2.91038305e-11, w: -1.86264515e-09}
+        outSlope: {x: 1.2555573, y: .0356405005, z: -2.91038305e-11, w: -1.86264515e-09}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .0523148887, y: .00148502074, z: .0283358842, w: .998227477}
+        inSlope: {x: .302369773, y: .00858312845, z: -.00010820484, w: -.00381160155}
+        outSlope: {x: .302369773, y: .00858312845, z: -.00010820484, w: -.00381160155}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.0251974929, y: -.000715261034, z: .0283657517, w: .999279737}
+        inSlope: {x: -.930148423, y: -.0264033787, z: -.000358410267, w: -.0126271276}
+        outSlope: {x: -.930148423, y: -.0264033787, z: -.000358410267, w: -.0126271276}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.0523148887, y: -.00148502074, z: .0283358842, w: .998227477}
+        inSlope: {x: -.650817633, y: -.018474238, z: -.000716820534, w: -.0252542552}
+        outSlope: {x: -.650817633, y: -.018474238, z: -.000716820534, w: -.0252542552}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_ear_C/elephant_keepSmoothIn_Unity_REF:L_flappy_middle_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_ear_C/elephant_keepSmoothIn_Unity_REF:L_flappy_middle_A/elephant_keepSmoothIn_Unity_REF:L_flappyEarMiddle_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0523359552, y: 0, z: -0, w: .99862951}
+        inSlope: {x: 1.25606298, y: -0, z: 0, w: .0328917503}
+        outSlope: {x: 1.25606298, y: -0, z: 0, w: .0328917503}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 3.10172221e-09, y: -0, z: -0, w: 1}
+        inSlope: {x: 1.25606298, y: 0, z: 0, w: -1.86264515e-09}
+        outSlope: {x: 1.25606298, y: 0, z: 0, w: -1.86264515e-09}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .0523359552, y: -0, z: -0, w: .99862951}
+        inSlope: {x: .302491575, y: 0, z: 0, w: -.00381303206}
+        outSlope: {x: .302491575, y: 0, z: 0, w: -.00381303206}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.0252076425, y: 0, z: -0, w: .999682248}
+        inSlope: {x: -.930522978, y: 0, z: 0, w: -.0126328496}
+        outSlope: {x: -.930522978, y: 0, z: 0, w: -.0126328496}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.0523359552, y: 0, z: -0, w: .99862951}
+        inSlope: {x: -.651079655, y: 0, z: 0, w: -.0252656993}
+        outSlope: {x: -.651079655, y: 0, z: 0, w: -.0252656993}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_ear_C/elephant_keepSmoothIn_Unity_REF:L_flappy_middle_A/elephant_keepSmoothIn_Unity_REF:L_flappyEarMiddle_B/elephant_keepSmoothIn_Unity_REF:L_flappyEarMiddle_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .112793647, w: .993618429}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: 0, z: .112793647, w: .993618429}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_flappyEarEndEnd_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_flappyEarEndEnd_A/elephant_keepSmoothIn_Unity_REF:L_flappyEarEnd_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_flappyEarEndEnd_A/elephant_keepSmoothIn_Unity_REF:L_flappyEarEnd_B/elephant_keepSmoothIn_Unity_REF:L_flappyEarEnd_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .700272083, y: .0980765671, z: -.700272083, w: -.0980765671}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .700272083, y: .0980765671, z: -.700272083, w: -.0980765671}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:jaw
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: .317304671, z: -0, w: .948323667}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: .317304671, z: -0, w: .948323667}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:trunk_A/elephant_keepSmoothIn_Unity_REF:trunk_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: .317304671, z: -0, w: .948323667}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: .317304671, z: -0, w: .948323667}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:trunk_A/elephant_keepSmoothIn_Unity_REF:trunk_B/elephant_keepSmoothIn_Unity_REF:trunk_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: .317304671, z: -0, w: .948323667}
+        inSlope: {x: 0, y: .620264053, z: 0, w: -.217024326}
+        outSlope: {x: 0, y: .620264053, z: 0, w: -.217024326}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 0, y: .343149006, z: -0, w: .939280987}
+        inSlope: {x: 0, y: .617178082, z: 0, w: -.225474358}
+        outSlope: {x: 0, y: .617178082, z: 0, w: -.225474358}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: 0, y: .368736178, z: -0, w: .929534137}
+        inSlope: {x: 0, y: .148236439, z: 0, w: -.05526568}
+        outSlope: {x: 0, y: .148236439, z: 0, w: -.05526568}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: .330736369, z: -0, w: .943723202}
+        inSlope: {x: 0, y: -.458368421, z: 0, w: .163777828}
+        outSlope: {x: 0, y: -.458368421, z: 0, w: .163777828}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: .317304671, z: -0, w: .948323667}
+        inSlope: {x: 0, y: -.322360843, z: 0, w: .110411197}
+        outSlope: {x: 0, y: -.322360843, z: 0, w: .110411197}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:trunk_A/elephant_keepSmoothIn_Unity_REF:trunk_B/elephant_keepSmoothIn_Unity_REF:trunk_C/elephant_keepSmoothIn_Unity_REF:trunk_D
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: .317304671, z: -0, w: .948323667}
+        inSlope: {x: 0, y: .789665222, z: 0, w: -.279634953}
+        outSlope: {x: 0, y: .789665222, z: 0, w: -.279634953}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 0, y: .350207388, z: -0, w: .936672211}
+        inSlope: {x: 0, y: .784545422, z: 0, w: -.293329239}
+        outSlope: {x: 0, y: .784545422, z: 0, w: -.293329239}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: 0, y: .382683456, z: -0, w: .923879564}
+        inSlope: {x: 0, y: .188307941, z: 0, w: -.0722151026}
+        outSlope: {x: 0, y: .188307941, z: 0, w: -.0722151026}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: .334416121, z: -0, w: .942425489}
+        inSlope: {x: 0, y: -.583140492, z: 0, w: .212032557}
+        outSlope: {x: 0, y: -.583140492, z: 0, w: .212032557}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: .317304671, z: -0, w: .948323667}
+        inSlope: {x: 0, y: -.4106749, z: 0, w: .141556293}
+        outSlope: {x: 0, y: -.4106749, z: 0, w: .141556293}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:trunk_A/elephant_keepSmoothIn_Unity_REF:trunk_B/elephant_keepSmoothIn_Unity_REF:trunk_C/elephant_keepSmoothIn_Unity_REF:trunk_D/elephant_keepSmoothIn_Unity_REF:trunk_E
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: .317304671, z: -0, w: .948323667}
+        inSlope: {x: 0, y: -6.63015747, z: 0, w: 1.22000456}
+        outSlope: {x: 0, y: -6.63015747, z: 0, w: 1.22000456}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 0, y: .0410481095, z: -0, w: .99915719}
+        inSlope: {x: 0, y: -6.66902161, z: 0, w: .273981541}
+        outSlope: {x: 0, y: -6.66902161, z: 0, w: .273981541}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: 0, y: -.238447145, z: -0, w: .971155465}
+        inSlope: {x: 0, y: -1.62649596, z: 0, w: -.0435798764}
+        outSlope: {x: 0, y: -1.62649596, z: 0, w: -.0435798764}
+        tangentMode: 0
+      - time: .125
+        value: {x: 0, y: -.0944931954, z: -0, w: .995525539}
+        inSlope: {x: 0, y: 4.97138405, z: 0, w: .159170851}
+        outSlope: {x: 0, y: 4.97138405, z: 0, w: .159170851}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: .175834909, z: -0, w: .984419703}
+        inSlope: {x: 0, y: 4.9415741, z: 0, w: -.566422522}
+        outSlope: {x: 0, y: 4.9415741, z: 0, w: -.566422522}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: .317304671, z: -0, w: .948323667}
+        inSlope: {x: 0, y: 3.39527512, z: 0, w: -.866305053}
+        outSlope: {x: 0, y: 3.39527512, z: 0, w: -.866305053}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:trunk_A/elephant_keepSmoothIn_Unity_REF:trunk_B/elephant_keepSmoothIn_Unity_REF:trunk_C/elephant_keepSmoothIn_Unity_REF:trunk_D/elephant_keepSmoothIn_Unity_REF:trunk_E/elephant_keepSmoothIn_Unity_REF:trunk_F
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .833682001, y: .451986849, z: -.278946072, w: -.151232615}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .833682001, y: .451986849, z: -.278946072, w: -.151232615}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .119077936, y: -.170433894, z: .366234988, w: .906997621}
+        inSlope: {x: .757651091, y: -1.08441138, z: -.12005496, w: -.297323227}
+        outSlope: {x: .757651091, y: -1.08441138, z: -.12005496, w: -.297323227}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: .150646731, y: -.215617701, z: .361232698, w: .894609153}
+        inSlope: {x: .751835942, y: -1.07608819, z: -.133998871, w: -.331855059}
+        outSlope: {x: .751835942, y: -1.07608819, z: -.133998871, w: -.331855059}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .181730926, y: -.260107905, z: .355068415, w: .879343033}
+        inSlope: {x: .180397749, y: -.258199722, z: -.0338891856, w: -.0839274228}
+        outSlope: {x: .180397749, y: -.258199722, z: -.0338891856, w: -.0839274228}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: .135501206, y: -.193940192, z: .363787353, w: .900935829}
+        inSlope: {x: -.559223235, y: .800405324, z: .0939166546, w: .232589006}
+        outSlope: {x: -.559223235, y: .800405324, z: .0939166546, w: .232589006}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .119077936, y: -.170433894, z: .366234988, w: .906997621}
+        inSlope: {x: -.394158572, y: .564151287, z: .0587432534, w: .145483047}
+        outSlope: {x: -.394158572, y: .564151287, z: .0587432534, w: .145483047}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0293034725, y: -.205836281, z: .0827068165, w: .974644721}
+        inSlope: {x: -.174127176, y: 1.22312093, z: .0193610787, w: .228157997}
+        outSlope: {x: -.174127176, y: 1.22312093, z: .0193610787, w: .228157997}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: .0220481735, y: -.154872909, z: .0835135281, w: .984151304}
+        inSlope: {x: -.174852371, y: 1.22821486, z: .0166142285, w: .195787668}
+        outSlope: {x: -.174852371, y: 1.22821486, z: .0166142285, w: .195787668}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .0147324428, y: -.103485048, z: .0840913355, w: .99096036}
+        inSlope: {x: -.0421929024, y: .296375424, z: .00368285272, w: .043398153}
+        outSlope: {x: -.0421929024, y: .296375424, z: .00368285272, w: .043398153}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: .0255502425, y: -.179472476, z: .0831535608, w: .97990936}
+        inSlope: {x: .129256487, y: -.907935858, z: -.0133633912, w: -.15747714}
+        outSlope: {x: .129256487, y: -.907935858, z: -.0133633912, w: -.15747714}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .0293034725, y: -.205836281, z: .0827068165, w: .974644721}
+        inSlope: {x: .0900775418, y: -.632731497, z: -.0107218651, w: -.126351386}
+        outSlope: {x: .0900775418, y: -.632731497, z: -.0107218651, w: -.126351386}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_ear_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00208061212, y: -.207901284, z: .0652570575, w: .975968361}
+        inSlope: {x: .0373650156, y: 3.73363137, z: .0327946544, w: .490470886}
+        outSlope: {x: .0373650156, y: 3.73363137, z: .0327946544, w: .490470886}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: -.000523736351, y: -.052333314, z: .0666235015, w: .996404648}
+        inSlope: {x: .0375197902, y: 3.74909449, z: .0131088495, w: .196053743}
+        outSlope: {x: .0375197902, y: 3.74909449, z: .0131088495, w: .196053743}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .00104603719, y: .104523234, z: .0663494617, w: .992306173}
+        inSlope: {x: .00907911826, y: .907213092, z: .000880479114, w: .0131671317}
+        outSlope: {x: .00907911826, y: .907213092, z: .000880479114, w: .0131671317}
+        tangentMode: 0
+      - time: .125
+        value: {x: .000232856575, y: .0232677627, z: .0666968748, w: .99750191}
+        inSlope: {x: -.0278804898, y: -2.78590178, z: -.00216284348, w: -.0323460028}
+        outSlope: {x: -.0278804898, y: -2.78590178, z: -.00216284348, w: -.0323460028}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.00127733708, y: -.12763527, z: .0661692247, w: .989610672}
+        inSlope: {x: -.0277616251, y: -2.77402854, z: -.0172778089, w: -.258402616}
+        outSlope: {x: -.0277616251, y: -2.77402854, z: -.0172778089, w: -.258402616}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.00208061212, y: -.207901284, z: .0652570575, w: .975968361}
+        inSlope: {x: -.0192786045, y: -1.92638481, z: -.0218920168, w: -.327415556}
+        outSlope: {x: -.0192786045, y: -1.92638481, z: -.0218920168, w: -.327415556}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_ear_C/elephant_keepSmoothIn_Unity_REF:R_ear_D
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -.0383765213, w: .999263346}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: -0, z: -.0383765213, w: .999263346}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_ear_C/elephant_keepSmoothIn_Unity_REF:R_ear_D/elephant_keepSmoothIn_Unity_REF:R_flappyEarStart_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_ear_C/elephant_keepSmoothIn_Unity_REF:R_ear_D/elephant_keepSmoothIn_Unity_REF:R_flappyEarStart_A/elephant_keepSmoothIn_Unity_REF:R_flappyEarStart_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_ear_C/elephant_keepSmoothIn_Unity_REF:R_ear_D/elephant_keepSmoothIn_Unity_REF:R_flappyEarStart_A/elephant_keepSmoothIn_Unity_REF:R_flappyEarStart_B/elephant_keepSmoothIn_Unity_REF:R_flappyEar_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0523148887, y: -.00148502074, z: .0283358842, w: .998227477}
+        inSlope: {x: 1.25555742, y: .0356405005, z: .000933229923, w: .0328774452}
+        outSlope: {x: 1.25555742, y: .0356405005, z: .000933229923, w: .0328774452}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 3.10047321e-09, y: 8.80106543e-11, z: .0283747688, w: .999597371}
+        inSlope: {x: 1.2555573, y: .0356405005, z: -2.91038305e-11, w: -1.86264515e-09}
+        outSlope: {x: 1.2555573, y: .0356405005, z: -2.91038305e-11, w: -1.86264515e-09}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .0523148887, y: .00148502074, z: .0283358842, w: .998227477}
+        inSlope: {x: .302369773, y: .00858312845, z: -.00010820484, w: -.00381160155}
+        outSlope: {x: .302369773, y: .00858312845, z: -.00010820484, w: -.00381160155}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.0251974929, y: -.000715261034, z: .0283657517, w: .999279737}
+        inSlope: {x: -.930148423, y: -.0264033787, z: -.000358410267, w: -.0126271276}
+        outSlope: {x: -.930148423, y: -.0264033787, z: -.000358410267, w: -.0126271276}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.0523148887, y: -.00148502074, z: .0283358842, w: .998227477}
+        inSlope: {x: -.650817633, y: -.018474238, z: -.000716820534, w: -.0252542552}
+        outSlope: {x: -.650817633, y: -.018474238, z: -.000716820534, w: -.0252542552}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_ear_C/elephant_keepSmoothIn_Unity_REF:R_flappy_middle_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_ear_C/elephant_keepSmoothIn_Unity_REF:R_flappy_middle_A/elephant_keepSmoothIn_Unity_REF:R_flappyEarMiddle_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0523359552, y: 0, z: -0, w: .99862951}
+        inSlope: {x: 1.25606298, y: -0, z: 0, w: .0328917503}
+        outSlope: {x: 1.25606298, y: -0, z: 0, w: .0328917503}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 3.10172221e-09, y: -0, z: -0, w: 1}
+        inSlope: {x: 1.25606298, y: 0, z: 0, w: -1.86264515e-09}
+        outSlope: {x: 1.25606298, y: 0, z: 0, w: -1.86264515e-09}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .0523359552, y: -0, z: -0, w: .99862951}
+        inSlope: {x: .302491575, y: 0, z: 0, w: -.00381303206}
+        outSlope: {x: .302491575, y: 0, z: 0, w: -.00381303206}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.0252076425, y: 0, z: -0, w: .999682248}
+        inSlope: {x: -.930522978, y: 0, z: 0, w: -.0126328496}
+        outSlope: {x: -.930522978, y: 0, z: 0, w: -.0126328496}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.0523359552, y: 0, z: -0, w: .99862951}
+        inSlope: {x: -.651079655, y: 0, z: 0, w: -.0252656993}
+        outSlope: {x: -.651079655, y: 0, z: 0, w: -.0252656993}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_ear_C/elephant_keepSmoothIn_Unity_REF:R_flappy_middle_A/elephant_keepSmoothIn_Unity_REF:R_flappyEarMiddle_B/elephant_keepSmoothIn_Unity_REF:R_flappyEarMiddle_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .112793647, w: .993618429}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: 0, z: .112793647, w: .993618429}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_flappyEarEndEnd_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_flappyEarEndEnd_A/elephant_keepSmoothIn_Unity_REF:R_flappyEarEnd_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_flappyEarEndEnd_A/elephant_keepSmoothIn_Unity_REF:R_flappyEarEnd_B/elephant_keepSmoothIn_Unity_REF:R_flappyEarEnd_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -1.29238442e-09, z: -0, w: 1}
+        inSlope: {x: 0, y: -1.04686534, z: 0, w: -.0228424072}
+        outSlope: {x: 0, y: -1.04686534, z: 0, w: -.0228424072}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 0, y: -.0436193906, z: -0, w: .999048233}
+        inSlope: {x: 0, y: -1.04586887, z: 0, w: -.0456633605}
+        outSlope: {x: 0, y: -1.04586887, z: 0, w: -.0456633605}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: 0, y: -.0871557444, z: -0, w: .99619472}
+        inSlope: {x: 0, y: -.251729071, z: 0, w: -.013641363}
+        outSlope: {x: 0, y: -.251729071, z: 0, w: -.013641363}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: -.0226227101, z: -0, w: .999744117}
+        inSlope: {x: 0, y: .775161684, z: 0, w: .0250625592}
+        outSlope: {x: 0, y: .775161684, z: 0, w: .0250625592}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: .542945147, z: 0, w: .00614118716}
+        outSlope: {x: 0, y: .542945147, z: 0, w: .00614118716}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_cheek_zero
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -6.92787508e-27, y: 1.29238442e-09, z: -1.58674441e-25, w: 1}
+        inSlope: {x: -5.95603936e-25, y: 1.04686534, z: -1.28204035e-16, w: -.0228424072}
+        outSlope: {x: -5.95603936e-25, y: 1.04686534, z: -1.28204035e-16, w: -.0228424072}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: -3.17447058e-26, y: .0436193906, z: -5.34183479e-18, w: .999048233}
+        inSlope: {x: -7.82870493e-27, y: 1.04586887, z: -1.28082009e-16, w: -.0456633605}
+        outSlope: {x: -7.82870493e-27, y: 1.04586887, z: -1.28082009e-16, w: -.0456633605}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: -7.58026998e-27, y: .0871557444, z: -1.06735002e-17, w: .99619472}
+        inSlope: {x: 3.54969904e-26, y: .251729071, z: -3.08279262e-17, w: -.013641363}
+        outSlope: {x: 3.54969904e-26, y: .251729071, z: -3.08279262e-17, w: -.013641363}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 3.02878492e-26, y: .0226227101, z: -2.77048285e-18, w: .999744117}
+        inSlope: {x: 3.45439355e-25, y: -.775161684, z: 9.49299338e-17, w: .0250625592}
+        outSlope: {x: 3.45439355e-25, y: -.775161684, z: 9.49299338e-17, w: .0250625592}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: -7.26908552e-25, y: -.542945147, z: 6.64916033e-17, w: .00614118716}
+        outSlope: {x: -7.26908552e-25, y: -.542945147, z: 6.64916033e-17, w: .00614118716}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_cheek_zero/elephant_keepSmoothIn_Unity_REF:R_cheek
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.96261554e-17, y: .707106769, z: -.691654801, w: -.147015765}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1.96261554e-17, y: .707106769, z: -.691654801, w: -.147015765}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:R__clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .382058203, y: .0218661781, z: -.0527896248, w: .922370136}
+        inSlope: {x: -.00492811203, y: .0799971074, z: .193226606, w: .0102124214}
+        outSlope: {x: -.00492811203, y: .0799971074, z: .193226606, w: .0102124214}
+        tangentMode: 0
+      - time: .125
+        value: {x: .38174364, y: .0268036034, z: -.0408608131, w: .92297554}
+        inSlope: {x: .00404334022, y: -.0592313707, z: -.143177196, w: -.00661682989}
+        outSlope: {x: .00404334022, y: -.0592313707, z: -.143177196, w: -.00661682989}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .382058203, y: .0218661781, z: -.0527896248, w: .922370136}
+        inSlope: {x: .00246834825, y: -.0414853804, z: -.10018044, w: -.00550604006}
+        outSlope: {x: .00246834825, y: -.0414853804, z: -.10018044, w: -.00550604006}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:R__clavicle/elephant_keepSmoothIn_Unity_REF:R__shoulder
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.11022302e-16, y: -1.62717062e-15, z: .115374058, w: .993322134}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1.11022302e-16, y: -1.62717062e-15, z: .115374058, w: .993322134}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:R__clavicle/elephant_keepSmoothIn_Unity_REF:R__shoulder/elephant_keepSmoothIn_Unity_REF:R__elbow
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0539804511, y: .922301173, z: -.382029653, w: -.0223594345}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .0539804511, y: .922301173, z: -.382029653, w: -.0223594345}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:R__clavicle/elephant_keepSmoothIn_Unity_REF:R__shoulder/elephant_keepSmoothIn_Unity_REF:R__elbow/elephant_keepSmoothIn_Unity_REF:R__wrist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.147015765, y: .691654801, z: .707106769, w: 0}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.147015765, y: .691654801, z: .707106769, w: 0}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:L__clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .382058203, y: .0218661781, z: -.0527896248, w: .922370136}
+        inSlope: {x: .00423073769, y: -.0800370276, z: -.193130046, w: -.0118989944}
+        outSlope: {x: .00423073769, y: -.0800370276, z: -.193130046, w: -.0118989944}
+        tangentMode: 0
+      - time: .125
+        value: {x: .38230896, y: .0169251002, z: -.0647096187, w: .921610594}
+        inSlope: {x: -.00274085952, y: .059305951, z: .142997265, w: .00976180844}
+        outSlope: {x: -.00274085952, y: .059305951, z: .142997265, w: .00976180844}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .382058203, y: .0218661781, z: -.0527896248, w: .922370136}
+        inSlope: {x: -.00228095101, y: .0414960645, z: .100154422, w: .0059595122}
+        outSlope: {x: -.00228095101, y: .0414960645, z: .100154422, w: .0059595122}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:L__clavicle/elephant_keepSmoothIn_Unity_REF:L__shoulder
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.51410138e-08, y: 2.86518809e-10, z: .115374058, w: .993322134}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1.51410138e-08, y: 2.86518809e-10, z: .115374058, w: .993322134}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:L__clavicle/elephant_keepSmoothIn_Unity_REF:L__shoulder/elephant_keepSmoothIn_Unity_REF:L__elbow
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0539804511, y: .922301173, z: -.382029653, w: -.0223594345}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .0539804511, y: .922301173, z: -.382029653, w: -.0223594345}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:L__clavicle/elephant_keepSmoothIn_Unity_REF:L__shoulder/elephant_keepSmoothIn_Unity_REF:L__elbow/elephant_keepSmoothIn_Unity_REF:L__wrist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:belly_zero/elephant_keepSmoothIn_Unity_REF:belly
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 6.12323426e-17, y: 1, z: -6.12323426e-17, w: -6.12323426e-17}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 6.12323426e-17, y: 1, z: -6.12323426e-17, w: -6.12323426e-17}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .5, y: .5, z: .5, w: .5}
+        inSlope: {x: -.10517478, y: .104262829, z: .104262829, w: -.10517478}
+        outSlope: {x: -.10517478, y: .104262829, z: .104262829, w: -.10517478}
+        tangentMode: 0
+      - time: .125
+        value: {x: .493494213, y: .506422222, z: .506422222, w: .493494213}
+        inSlope: {x: .0784174055, y: -.0767125934, z: -.0767125934, w: .0784174055}
+        outSlope: {x: .0784174055, y: -.0767125934, z: -.0767125934, w: .0784174055}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .5, y: .5, z: .5, w: .5}
+        inSlope: {x: .0544216745, y: -.0541763417, z: -.0541763417, w: .0544216745}
+        outSlope: {x: .0544216745, y: -.0541763417, z: -.0541763417, w: .0544216745}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:R_femur
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.66533454e-16, y: -1.38777891e-16, z: -.0283465758, w: .999598145}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1.66533454e-16, y: -1.38777891e-16, z: -.0283465758, w: .999598145}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:R_femur/elephant_keepSmoothIn_Unity_REF:R_knee
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .64534843, y: .289007634, z: -.64534843, w: .289007634}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .64534843, y: .289007634, z: -.64534843, w: .289007634}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:R_femur/elephant_keepSmoothIn_Unity_REF:R_knee/elephant_keepSmoothIn_Unity_REF:R_ankle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.5, y: .5, z: -.5, w: .5}
+        inSlope: {x: .10517478, y: .104262829, z: -.104262829, w: -.10517478}
+        outSlope: {x: .10517478, y: .104262829, z: -.104262829, w: -.10517478}
+        tangentMode: 0
+      - time: .125
+        value: {x: -.493494213, y: .506422222, z: -.506422222, w: .493494213}
+        inSlope: {x: -.0784174055, y: -.0767125934, z: .0767125934, w: .0784174055}
+        outSlope: {x: -.0784174055, y: -.0767125934, z: .0767125934, w: .0784174055}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.5, y: .5, z: -.5, w: .5}
+        inSlope: {x: -.0544216745, y: -.0541763417, z: .0541763417, w: .0544216745}
+        outSlope: {x: -.0544216745, y: -.0541763417, z: .0541763417, w: .0544216745}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:L_femur
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.64419971e-24, y: -1.64419932e-24, z: -.0283465758, w: .999598145}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -1.64419971e-24, y: -1.64419932e-24, z: -.0283465758, w: .999598145}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:L_femur/elephant_keepSmoothIn_Unity_REF:L_knee
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .64534843, y: .289007634, z: -.64534843, w: .289007634}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .64534843, y: .289007634, z: -.64534843, w: .289007634}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:L_femur/elephant_keepSmoothIn_Unity_REF:L_knee/elephant_keepSmoothIn_Unity_REF:L_ankle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .464673221, y: .532990456, z: .464673221, w: .532990456}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .464673221, y: .532990456, z: .464673221, w: .532990456}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:tail_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .00372692407, y: -.0609346703, z: -.060934674, w: .9962731}
+        inSlope: {x: -.0894461721, y: 1.46243215, z: 1.46243227, w: .089445591}
+        outSlope: {x: -.0894461721, y: 1.46243215, z: 1.46243227, w: .089445591}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 6.2629186e-17, y: 3.59156904e-09, z: 3.64557895e-09, w: 1}
+        inSlope: {x: 3.7252903e-09, y: 1.46243215, z: 1.46243215, w: -3.7252903e-09}
+        outSlope: {x: 3.7252903e-09, y: 1.46243215, z: 1.46243215, w: -3.7252903e-09}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .00372692407, y: .0609346703, z: .060934674, w: .9962731}
+        inSlope: {x: .0103778169, y: .352740735, z: .352740735, w: -.0103776529}
+        outSlope: {x: .0103778169, y: .352740735, z: .352740735, w: -.0103776529}
+        tangentMode: 0
+      - time: .125
+        value: {x: .000864817586, y: .0293950588, z: .0293950588, w: .999135196}
+        inSlope: {x: -.0343452729, y: -1.08395684, z: -1.08395684, w: .0343451463}
+        outSlope: {x: -.0343452729, y: -1.08395684, z: -1.08395684, w: .0343451463}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: .000864817644, y: -.0293950774, z: -.0293950774, w: .999135196}
+        inSlope: {x: .0343452878, y: -1.08395672, z: -1.08395672, w: -.0343451574}
+        outSlope: {x: .0343452878, y: -1.08395672, z: -1.08395672, w: -.0343451574}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .00372692407, y: -.0609346703, z: -.060934674, w: .9962731}
+        inSlope: {x: .0686905757, y: -.756950438, z: -.756950498, w: -.0686903149}
+        outSlope: {x: .0686905757, y: -.756950438, z: -.756950498, w: -.0686903149}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:tail_A/elephant_keepSmoothIn_Unity_REF:tail_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .00372692407, y: -.0609346703, z: -.060934674, w: .9962731}
+        inSlope: {x: -.0894461721, y: 1.46243215, z: 1.46243227, w: .089445591}
+        outSlope: {x: -.0894461721, y: 1.46243215, z: 1.46243227, w: .089445591}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 6.2629186e-17, y: 3.59156904e-09, z: 3.64557895e-09, w: 1}
+        inSlope: {x: 3.7252903e-09, y: 1.46243215, z: 1.46243215, w: -3.7252903e-09}
+        outSlope: {x: 3.7252903e-09, y: 1.46243215, z: 1.46243215, w: -3.7252903e-09}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .00372692407, y: .0609346703, z: .060934674, w: .9962731}
+        inSlope: {x: .0103778169, y: .352740735, z: .352740735, w: -.0103776529}
+        outSlope: {x: .0103778169, y: .352740735, z: .352740735, w: -.0103776529}
+        tangentMode: 0
+      - time: .125
+        value: {x: .000864817586, y: .0293950588, z: .0293950588, w: .999135196}
+        inSlope: {x: -.0343452729, y: -1.08395684, z: -1.08395684, w: .0343451463}
+        outSlope: {x: -.0343452729, y: -1.08395684, z: -1.08395684, w: .0343451463}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: .000864817644, y: -.0293950774, z: -.0293950774, w: .999135196}
+        inSlope: {x: .0343452878, y: -1.08395672, z: -1.08395672, w: -.0343451574}
+        outSlope: {x: .0343452878, y: -1.08395672, z: -1.08395672, w: -.0343451574}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .00372692407, y: -.0609346703, z: -.060934674, w: .9962731}
+        inSlope: {x: .0686905757, y: -.756950438, z: -.756950498, w: -.0686903149}
+        outSlope: {x: .0686905757, y: -.756950438, z: -.756950498, w: -.0686903149}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:tail_A/elephant_keepSmoothIn_Unity_REF:tail_B/elephant_keepSmoothIn_Unity_REF:tail_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .00372692407, y: -.0609346703, z: -.060934674, w: .9962731}
+        inSlope: {x: -.0894461721, y: 1.46243215, z: 1.46243227, w: .089445591}
+        outSlope: {x: -.0894461721, y: 1.46243215, z: 1.46243227, w: .089445591}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 6.2629186e-17, y: 3.59156926e-09, z: 3.64557895e-09, w: 1}
+        inSlope: {x: 3.7252903e-09, y: 1.46243215, z: 1.46243215, w: -3.7252903e-09}
+        outSlope: {x: 3.7252903e-09, y: 1.46243215, z: 1.46243215, w: -3.7252903e-09}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .00372692407, y: .0609346703, z: .060934674, w: .9962731}
+        inSlope: {x: .0103778169, y: .352740735, z: .352740735, w: -.0103776529}
+        outSlope: {x: .0103778169, y: .352740735, z: .352740735, w: -.0103776529}
+        tangentMode: 0
+      - time: .125
+        value: {x: .000864817586, y: .0293950588, z: .0293950588, w: .999135196}
+        inSlope: {x: -.0343452729, y: -1.08395684, z: -1.08395684, w: .0343451463}
+        outSlope: {x: -.0343452729, y: -1.08395684, z: -1.08395684, w: .0343451463}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: .000864817644, y: -.0293950774, z: -.0293950774, w: .999135196}
+        inSlope: {x: .0343452878, y: -1.08395672, z: -1.08395672, w: -.0343451574}
+        outSlope: {x: .0343452878, y: -1.08395672, z: -1.08395672, w: -.0343451574}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .00372692407, y: -.0609346703, z: -.060934674, w: .9962731}
+        inSlope: {x: .0686905757, y: -.756950438, z: -.756950498, w: -.0686903149}
+        outSlope: {x: .0686905757, y: -.756950438, z: -.756950498, w: -.0686903149}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:tail_A/elephant_keepSmoothIn_Unity_REF:tail_B/elephant_keepSmoothIn_Unity_REF:tail_C/elephant_keepSmoothIn_Unity_REF:tail_D
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .00372692407, y: -.0609346703, z: -.060934674, w: .9962731}
+        inSlope: {x: -.0894461721, y: 1.46243215, z: 1.46243227, w: .089445591}
+        outSlope: {x: -.0894461721, y: 1.46243215, z: 1.46243227, w: .089445591}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 6.2629186e-17, y: 3.59156904e-09, z: 3.64557895e-09, w: 1}
+        inSlope: {x: 3.7252903e-09, y: 1.46243215, z: 1.46243215, w: -3.7252903e-09}
+        outSlope: {x: 3.7252903e-09, y: 1.46243215, z: 1.46243215, w: -3.7252903e-09}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .00372692407, y: .0609346703, z: .060934674, w: .9962731}
+        inSlope: {x: .0103778169, y: .352740735, z: .352740735, w: -.0103776529}
+        outSlope: {x: .0103778169, y: .352740735, z: .352740735, w: -.0103776529}
+        tangentMode: 0
+      - time: .125
+        value: {x: .000864817586, y: .0293950588, z: .0293950588, w: .999135196}
+        inSlope: {x: -.0343452729, y: -1.08395684, z: -1.08395684, w: .0343451463}
+        outSlope: {x: -.0343452729, y: -1.08395684, z: -1.08395684, w: .0343451463}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: .000864817644, y: -.0293950774, z: -.0293950774, w: .999135196}
+        inSlope: {x: .0343452878, y: -1.08395672, z: -1.08395672, w: -.0343451574}
+        outSlope: {x: .0343452878, y: -1.08395672, z: -1.08395672, w: -.0343451574}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .00372692407, y: -.0609346703, z: -.060934674, w: .9962731}
+        inSlope: {x: .0686905757, y: -.756950438, z: -.756950498, w: -.0686903149}
+        outSlope: {x: .0686905757, y: -.756950438, z: -.756950498, w: -.0686903149}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:tail_A/elephant_keepSmoothIn_Unity_REF:tail_B/elephant_keepSmoothIn_Unity_REF:tail_C/elephant_keepSmoothIn_Unity_REF:tail_D/elephant_keepSmoothIn_Unity_REF:tail_E
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .00372692407, y: -.0609346703, z: -.060934674, w: .9962731}
+        inSlope: {x: -.0894461721, y: 1.46243215, z: 1.46243227, w: .089445591}
+        outSlope: {x: -.0894461721, y: 1.46243215, z: 1.46243227, w: .089445591}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 6.2629186e-17, y: 3.59156904e-09, z: 3.64557895e-09, w: 1}
+        inSlope: {x: 3.7252903e-09, y: 1.46243215, z: 1.46243215, w: -3.7252903e-09}
+        outSlope: {x: 3.7252903e-09, y: 1.46243215, z: 1.46243215, w: -3.7252903e-09}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .00372692407, y: .0609346703, z: .060934674, w: .9962731}
+        inSlope: {x: .0103778169, y: .352740735, z: .352740735, w: -.0103776529}
+        outSlope: {x: .0103778169, y: .352740735, z: .352740735, w: -.0103776529}
+        tangentMode: 0
+      - time: .125
+        value: {x: .000864817586, y: .0293950588, z: .0293950588, w: .999135196}
+        inSlope: {x: -.0343452729, y: -1.08395684, z: -1.08395684, w: .0343451463}
+        outSlope: {x: -.0343452729, y: -1.08395684, z: -1.08395684, w: .0343451463}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: .000864817644, y: -.0293950774, z: -.0293950774, w: .999135196}
+        inSlope: {x: .0343452878, y: -1.08395672, z: -1.08395672, w: -.0343451574}
+        outSlope: {x: .0343452878, y: -1.08395672, z: -1.08395672, w: -.0343451574}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .00372692407, y: -.0609346703, z: -.060934674, w: .9962731}
+        inSlope: {x: .0686905757, y: -.756950438, z: -.756950498, w: -.0686903149}
+        outSlope: {x: .0686905757, y: -.756950438, z: -.756950498, w: -.0686903149}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:tail_A/elephant_keepSmoothIn_Unity_REF:tail_B/elephant_keepSmoothIn_Unity_REF:tail_C/elephant_keepSmoothIn_Unity_REF:tail_D/elephant_keepSmoothIn_Unity_REF:tail_E/elephant_keepSmoothIn_Unity_REF:tail_F/elephant_keepSmoothIn_Unity_REF:tail_G/elephant_keepSmoothIn_Unity_REF:tali_H
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .999990582, y: -0, z: 0, w: .00434173783}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .999990582, y: -0, z: 0, w: .00434173783}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:ctrls/elephant_keepSmoothIn_Unity_REF:root_ctrl
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 3.21802945e-05, y: 1.62732542, z: 1.90978285e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 3.21802945e-05, y: 1.62732542, z: 1.90978285e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -3.21802945e-05, y: .102426015, z: -1.7763568e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -3.21802945e-05, y: .102426015, z: -1.7763568e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -4.11351459e-17, y: .215003029, z: 5.67095049e-05}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -4.11351459e-17, y: .215003029, z: 5.67095049e-05}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.9720995e-18, y: .208144322, z: -5.67095049e-05}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -1.9720995e-18, y: .208144322, z: -5.67095049e-05}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -8.44283478e-15, y: .30538103, z: 4.26325632e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -8.44283478e-15, y: .30538103, z: 4.26325632e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.727360845, y: .444773853, z: -.102703139}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.727360845, y: .444773853, z: -.102703139}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.203373522, y: 6.39488435e-16, z: 5.3290704e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.203373522, y: 6.39488435e-16, z: 5.3290704e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.406689107, y: -1.42108539e-15, z: 4.97379917e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.406689107, y: -1.42108539e-15, z: 4.97379917e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_ear_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.349342614, y: -1.13686835e-15, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.349342614, y: -1.13686835e-15, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_ear_C/elephant_keepSmoothIn_Unity_REF:L_ear_D
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0414829515, y: -.0885948911, z: -.0329185128}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.0414829515, y: -.0885948911, z: -.0329185128}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_ear_C/elephant_keepSmoothIn_Unity_REF:L_ear_D/elephant_keepSmoothIn_Unity_REF:L_flappyEarStart_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0225050095, y: -.222236946, z: -.0515824072}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.0225050095, y: -.222236946, z: -.0515824072}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_ear_C/elephant_keepSmoothIn_Unity_REF:L_ear_D/elephant_keepSmoothIn_Unity_REF:L_flappyEarStart_A/elephant_keepSmoothIn_Unity_REF:L_flappyEarStart_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0225050095, y: -.230676338, z: -.0353177749}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.0225050095, y: -.230676338, z: -.0353177749}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_ear_C/elephant_keepSmoothIn_Unity_REF:L_ear_D/elephant_keepSmoothIn_Unity_REF:L_flappyEarStart_A/elephant_keepSmoothIn_Unity_REF:L_flappyEarStart_B/elephant_keepSmoothIn_Unity_REF:L_flappyEar_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0486194454, y: -.0999355614, z: -.0329185128}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.0486194454, y: -.0999355614, z: -.0329185128}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_ear_C/elephant_keepSmoothIn_Unity_REF:L_flappy_middle_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0253181327, y: -.312256992, z: -.0369872712}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.0253181327, y: -.312256992, z: -.0369872712}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_ear_C/elephant_keepSmoothIn_Unity_REF:L_flappy_middle_A/elephant_keepSmoothIn_Unity_REF:L_flappyEarMiddle_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0281312596, y: -.308769345, z: -.0453888513}
+        inSlope: {x: -0, y: -.0161872618, z: -.00831099786}
+        outSlope: {x: -0, y: -.0161872618, z: -.00831099786}
+        tangentMode: 0
+      - time: .125
+        value: {x: -.0281312596, y: -.309754848, z: -.045926623}
+        inSlope: {x: -0, y: .0114577776, z: .007084921}
+        outSlope: {x: -0, y: .0114593292, z: .00708575128}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.0281312596, y: -.308769345, z: -.0453888513}
+        inSlope: {x: -0, y: .00850250013, z: .00409817183}
+        outSlope: {x: -0, y: .00850250013, z: .00409817183}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_ear_C/elephant_keepSmoothIn_Unity_REF:L_flappy_middle_A/elephant_keepSmoothIn_Unity_REF:L_flappyEarMiddle_B/elephant_keepSmoothIn_Unity_REF:L_flappyEarMiddle_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0192767885, y: -.169206381, z: -.0329185128}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.0192767885, y: -.169206381, z: -.0329185128}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_flappyEarEndEnd_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0787675232, y: -.317883223, z: 7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.0787675232, y: -.317883223, z: 7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_flappyEarEndEnd_A/elephant_keepSmoothIn_Unity_REF:L_flappyEarEnd_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0815806538, y: -.317883223, z: -.0401266813}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.0815806538, y: -.317883223, z: -.0401266813}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_flappyEarEndEnd_A/elephant_keepSmoothIn_Unity_REF:L_flappyEarEnd_B/elephant_keepSmoothIn_Unity_REF:L_flappyEarEnd_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00136426464, y: -.666791081, z: .146677434}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.00136426464, y: -.666791081, z: .146677434}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:jaw
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 4.47118987e-19, y: 5.68434176e-16, z: .208462641}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 4.47118987e-19, y: 5.68434176e-16, z: .208462641}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:trunk_A/elephant_keepSmoothIn_Unity_REF:trunk_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 7.1054272e-17, y: -2.84217088e-16, z: .264870167}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 7.1054272e-17, y: -2.84217088e-16, z: .264870167}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:trunk_A/elephant_keepSmoothIn_Unity_REF:trunk_B/elephant_keepSmoothIn_Unity_REF:trunk_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.42108544e-16, y: 0, z: .463522822}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -1.42108544e-16, y: 0, z: .463522822}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:trunk_A/elephant_keepSmoothIn_Unity_REF:trunk_B/elephant_keepSmoothIn_Unity_REF:trunk_C/elephant_keepSmoothIn_Unity_REF:trunk_D
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.42108544e-16, y: 5.68434176e-16, z: .542002857}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -1.42108544e-16, y: 5.68434176e-16, z: .542002857}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:trunk_A/elephant_keepSmoothIn_Unity_REF:trunk_B/elephant_keepSmoothIn_Unity_REF:trunk_C/elephant_keepSmoothIn_Unity_REF:trunk_D/elephant_keepSmoothIn_Unity_REF:trunk_E
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: -8.52651264e-16, z: .529740334}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -0, y: -8.52651264e-16, z: .529740334}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:trunk_A/elephant_keepSmoothIn_Unity_REF:trunk_B/elephant_keepSmoothIn_Unity_REF:trunk_C/elephant_keepSmoothIn_Unity_REF:trunk_D/elephant_keepSmoothIn_Unity_REF:trunk_E/elephant_keepSmoothIn_Unity_REF:trunk_F
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .727360725, y: .444776326, z: -.102702998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .727360725, y: .444776326, z: -.102702998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .203368261, y: 4.05357196e-06, z: -2.84217088e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .203368261, y: 4.05357196e-06, z: -2.84217088e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .406687528, y: -1.97834697e-06, z: 2.13162816e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .406687528, y: -1.97834697e-06, z: 2.13162816e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_ear_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .349342674, y: -2.94978781e-06, z: -4.26325632e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .349342674, y: -2.94978781e-06, z: -4.26325632e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_ear_C/elephant_keepSmoothIn_Unity_REF:R_ear_D
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0414874367, y: .0885990188, z: .0329189971}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .0414874367, y: .0885990188, z: .0329189971}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_ear_C/elephant_keepSmoothIn_Unity_REF:R_ear_D/elephant_keepSmoothIn_Unity_REF:R_flappyEarStart_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .022499999, y: .222229987, z: .0515819974}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .022499999, y: .222229987, z: .0515819974}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_ear_C/elephant_keepSmoothIn_Unity_REF:R_ear_D/elephant_keepSmoothIn_Unity_REF:R_flappyEarStart_A/elephant_keepSmoothIn_Unity_REF:R_flappyEarStart_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0225099996, y: .230680004, z: .0353179984}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .0225099996, y: .230680004, z: .0353179984}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_ear_C/elephant_keepSmoothIn_Unity_REF:R_ear_D/elephant_keepSmoothIn_Unity_REF:R_flappyEarStart_A/elephant_keepSmoothIn_Unity_REF:R_flappyEarStart_B/elephant_keepSmoothIn_Unity_REF:R_flappyEar_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0484659486, y: .102634154, z: .0325278863}
+        inSlope: {x: .00368847908, y: -.064925611, z: .00938667078}
+        outSlope: {x: .00368847908, y: -.064925611, z: .00938667078}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: .0486196503, y: .0999289379, z: .0329189971}
+        inSlope: {x: .00370646268, y: -.0652373284, z: .00596270803}
+        outSlope: {x: .00370719866, y: -.0652375594, z: .00596214598}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .048774831, y: .0971977338, z: .0330247432}
+        inSlope: {x: .000896311656, y: -.0157631151, z: .00103982352}
+        outSlope: {x: .00089557661, y: -.0157637484, z: .00104006345}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: .0485453531, y: .10123653, z: .0327661186}
+        inSlope: {x: -.00274011912, y: .0482274108, z: -.00573343551}
+        outSlope: {x: -.00273970398, y: .0482250787, z: -.00573339546}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .0484659486, y: .102634154, z: .0325278863}
+        inSlope: {x: -.00190592033, y: .0335428528, z: -.00571759231}
+        outSlope: {x: -.00190592033, y: .0335428528, z: -.00571759231}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_ear_C/elephant_keepSmoothIn_Unity_REF:R_flappy_middle_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0253200009, y: .312260002, z: .0369869992}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .0253200009, y: .312260002, z: .0369869992}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_ear_C/elephant_keepSmoothIn_Unity_REF:R_flappy_middle_A/elephant_keepSmoothIn_Unity_REF:R_flappyEarMiddle_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0281299986, y: .310728282, z: .0452790186}
+        inSlope: {x: 6.66133815e-16, y: -.0309191849, z: .0109433886}
+        outSlope: {x: 6.66133815e-16, y: -.0309191849, z: .0109433886}
+        tangentMode: 0
+      - time: .125
+        value: {x: .0281299986, y: .308804333, z: .0459058769}
+        inSlope: {x: 2.85485917e-16, y: .0234585516, z: -.00625689793}
+        outSlope: {x: 6.66134027e-16, y: .02346115, z: -.00625841413}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .0281299986, y: .310728282, z: .0452790186}
+        inSlope: {x: 2.85485917e-16, y: .0158872511, z: -.00607821159}
+        outSlope: {x: 2.85485917e-16, y: .0158872511, z: -.00607821159}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_ear_C/elephant_keepSmoothIn_Unity_REF:R_flappy_middle_A/elephant_keepSmoothIn_Unity_REF:R_flappyEarMiddle_B/elephant_keepSmoothIn_Unity_REF:R_flappyEarMiddle_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0192763116, y: .169206157, z: .0329189971}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .0192763116, y: .169206157, z: .0329189971}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_flappyEarEndEnd_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .078768, y: .317880005, z: -3.55271347e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .078768, y: .317880005, z: -3.55271347e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_flappyEarEndEnd_A/elephant_keepSmoothIn_Unity_REF:R_flappyEarEnd_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0815779939, y: .317880005, z: .0401259996}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .0815779939, y: .317880005, z: .0401259996}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_flappyEarEndEnd_A/elephant_keepSmoothIn_Unity_REF:R_flappyEarEnd_B/elephant_keepSmoothIn_Unity_REF:R_flappyEarEnd_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.615660727, y: -.641810238, z: .258981138}
+        inSlope: {x: -.408375084, y: .360013008, z: -.0920976326}
+        outSlope: {x: -.408375084, y: .360013008, z: -.0920976326}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: -.632676244, y: -.626810193, z: .255143762}
+        inSlope: {x: -.456557989, y: .360013008, z: -.0963090584}
+        outSlope: {x: -.456568867, y: .360004306, z: -.0963133946}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: -.653707385, y: -.611810207, z: .250955105}
+        inSlope: {x: -.115534902, y: .0866714492, z: -.0234178007}
+        outSlope: {x: -.115509756, y: .0866614804, z: -.0234153364}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: -.623980641, y: -.634032428, z: .257013619}
+        inSlope: {x: .319711536, y: -.266668618, z: .0694633275}
+        outSlope: {x: .319708258, y: -.266666472, z: .0694647282}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.615660727, y: -.641810238, z: .258981138}
+        inSlope: {x: .199678287, y: -.186666831, z: .0472239591}
+        outSlope: {x: .199678287, y: -.186666831, z: .0472239591}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_cheek_zero
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -2.13162816e-16, y: 2.84217088e-16, z: 1.42108544e-16}
+        inSlope: {x: .399212271, y: .359999985, z: -.301892012}
+        outSlope: {x: .399212271, y: .359999985, z: -.301892012}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: .016633844, y: .0150000006, z: -.0125788348}
+        inSlope: {x: .438275278, y: .359999985, z: -.305309623}
+        outSlope: {x: .438275695, y: .360000789, z: -.305309951}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .0365229398, y: .0299999993, z: -.0254424661}
+        inSlope: {x: .110059433, y: .086667262, z: -.0736869872}
+        outSlope: {x: .110058889, y: .0866668671, z: -.0736869127}
+        tangentMode: 0
+      - time: .125
+        value: {x: .0258054398, y: .0222222209, z: -.0187193844}
+        inSlope: {x: -.339668214, y: -.266666412, z: .227257222}
+        outSlope: {x: -.339669079, y: -.266667694, z: .227258161}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: .00821726024, y: .0077777789, z: -.00650433963}
+        inSlope: {x: -.309666455, y: -.266667694, z: .224633232}
+        outSlope: {x: -.309665203, y: -.266666591, z: .224632606}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -2.13162816e-16, y: 2.84217088e-16, z: 1.42108544e-16}
+        inSlope: {x: -.19721429, y: -.186666727, z: .156104192}
+        outSlope: {x: -.19721429, y: -.186666727, z: .156104192}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_cheek_zero/elephant_keepSmoothIn_Unity_REF:R_cheek
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .245166242, y: .170924276, z: -1.62003742e-14}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .245166242, y: .170924276, z: -1.62003742e-14}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:R__clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.24110955, y: .00430973386, z: .104009219}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.24110955, y: .00430973386, z: .104009219}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:R__clavicle/elephant_keepSmoothIn_Unity_REF:R__shoulder
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.584143043, y: 2.84217088e-16, z: 4.26325632e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.584143043, y: 2.84217088e-16, z: 4.26325632e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:R__clavicle/elephant_keepSmoothIn_Unity_REF:R__shoulder/elephant_keepSmoothIn_Unity_REF:R__elbow
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.543388128, y: -.00761772366, z: 5.51664403e-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.543388128, y: -.00761772366, z: 5.51664403e-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:R__clavicle/elephant_keepSmoothIn_Unity_REF:R__shoulder/elephant_keepSmoothIn_Unity_REF:R__elbow/elephant_keepSmoothIn_Unity_REF:R__wrist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.260375351, y: .163066655, z: -1.62003742e-14}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.260375351, y: .163066655, z: -1.62003742e-14}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:L__clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .225066021, y: -.00246727257, z: -.104009219}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .225066021, y: -.00246727257, z: -.104009219}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:L__clavicle/elephant_keepSmoothIn_Unity_REF:L__shoulder
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .586477995, y: -9.94759834e-16, z: -3.48165926e-15}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .586477995, y: -9.94759834e-16, z: -3.48165926e-15}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:L__clavicle/elephant_keepSmoothIn_Unity_REF:L__shoulder/elephant_keepSmoothIn_Unity_REF:L__elbow
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .541377425, y: .00626700325, z: -3.55116869e-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .541377425, y: .00626700325, z: -3.55116869e-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:L__clavicle/elephant_keepSmoothIn_Unity_REF:L__shoulder/elephant_keepSmoothIn_Unity_REF:L__elbow/elephant_keepSmoothIn_Unity_REF:L__wrist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -4.33680859e-21, y: 2.84217088e-16, z: -1.06581408e-16}
+        inSlope: {x: -4.81482486e-35, y: -.359999985, z: 8.52652534e-16}
+        outSlope: {x: -4.81482486e-35, y: -.359999985, z: 8.52652534e-16}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: -4.33680859e-21, y: -.0150000006, z: -7.1054272e-17}
+        inSlope: {x: -2.06349639e-35, y: -.359999985, z: 1.17011544e-21}
+        outSlope: {x: -4.81482486e-35, y: -.360000789, z: -1.39941945e-21}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: -4.33680859e-21, y: -.0299999993, z: -1.06581408e-16}
+        inSlope: {x: -2.06349653e-35, y: -.086667262, z: -4.26326135e-16}
+        outSlope: {x: -4.81482429e-35, y: -.0866668671, z: -4.2632542e-16}
+        tangentMode: 0
+      - time: .125
+        value: {x: -4.33680859e-21, y: -.0222222209, z: -1.06581408e-16}
+        inSlope: {x: -2.0634961e-35, y: .266666412, z: -7.38733679e-22}
+        outSlope: {x: -4.81482601e-35, y: .266667694, z: -0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: -4.33680859e-21, y: -.0077777789, z: -1.06581408e-16}
+        inSlope: {x: -2.06349696e-35, y: .266667694, z: -0}
+        outSlope: {x: -4.81482429e-35, y: .266666591, z: -0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -4.33680859e-21, y: 2.84217088e-16, z: -1.06581408e-16}
+        inSlope: {x: -2.0634961e-35, y: .186666727, z: -0}
+        outSlope: {x: -2.0634961e-35, y: .186666727, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:belly_zero/elephant_keepSmoothIn_Unity_REF:belly
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -3.21802945e-05, y: -.180989102, z: 8.881784e-18}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -3.21802945e-05, y: -.180989102, z: 8.881784e-18}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.355601192, y: -.139178544, z: 7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.355601192, y: -.139178544, z: 7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:R_femur
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.510080993, y: -.0439342409, z: -7.10542693e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.510080993, y: -.0439342409, z: -7.10542693e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:R_femur/elephant_keepSmoothIn_Unity_REF:R_knee
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.489974976, y: .0128949638, z: 7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.489974976, y: .0128949638, z: 7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:R_femur/elephant_keepSmoothIn_Unity_REF:R_knee/elephant_keepSmoothIn_Unity_REF:R_ankle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .374996096, y: -.139178172, z: 1.26565423e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .374996096, y: -.139178172, z: 1.26565423e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:L_femur
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .510080993, y: .0439342447, z: 4.26325632e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .510080993, y: .0439342447, z: 4.26325632e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:L_femur/elephant_keepSmoothIn_Unity_REF:L_knee
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .492045313, y: -.0128949508, z: -7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .492045313, y: -.0128949508, z: -7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:L_femur/elephant_keepSmoothIn_Unity_REF:L_knee/elephant_keepSmoothIn_Unity_REF:L_ankle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -8.87744709e-18, y: .0682945177, z: .543016255}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -8.87744709e-18, y: .0682945177, z: .543016255}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:tail_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.167510509, y: 2.48689959e-16, z: -7.38614583e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.167510509, y: 2.48689959e-16, z: -7.38614583e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:tail_A/elephant_keepSmoothIn_Unity_REF:tail_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.163474113, y: 2.84217088e-16, z: -1.06581408e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.163474113, y: 2.84217088e-16, z: -1.06581408e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:tail_A/elephant_keepSmoothIn_Unity_REF:tail_B/elephant_keepSmoothIn_Unity_REF:tail_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.159437716, y: 0, z: -7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.159437716, y: 0, z: -7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:tail_A/elephant_keepSmoothIn_Unity_REF:tail_B/elephant_keepSmoothIn_Unity_REF:tail_C/elephant_keepSmoothIn_Unity_REF:tail_D
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.129164726, y: -5.68434176e-16, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.129164726, y: -5.68434176e-16, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:tail_A/elephant_keepSmoothIn_Unity_REF:tail_B/elephant_keepSmoothIn_Unity_REF:tail_C/elephant_keepSmoothIn_Unity_REF:tail_D/elephant_keepSmoothIn_Unity_REF:tail_E
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0464185737, y: 4.26325632e-16, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.0464185737, y: 4.26325632e-16, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:tail_A/elephant_keepSmoothIn_Unity_REF:tail_B/elephant_keepSmoothIn_Unity_REF:tail_C/elephant_keepSmoothIn_Unity_REF:tail_D/elephant_keepSmoothIn_Unity_REF:tail_E/elephant_keepSmoothIn_Unity_REF:tail_F/elephant_keepSmoothIn_Unity_REF:tail_G/elephant_keepSmoothIn_Unity_REF:tali_H
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 3.21802945e-05, y: 1.62732542, z: 1.90978285e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 3.21802945e-05, y: 1.62732542, z: 1.90978285e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:ctrls/elephant_keepSmoothIn_Unity_REF:root_ctrl
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_ear_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_ear_C/elephant_keepSmoothIn_Unity_REF:L_ear_D
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_ear_C/elephant_keepSmoothIn_Unity_REF:L_ear_D/elephant_keepSmoothIn_Unity_REF:L_flappyEarStart_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_ear_C/elephant_keepSmoothIn_Unity_REF:L_flappy_middle_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:L_ear_A/elephant_keepSmoothIn_Unity_REF:L_ear_B/elephant_keepSmoothIn_Unity_REF:L_flappyEarEndEnd_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:jaw
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_ear_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_ear_C/elephant_keepSmoothIn_Unity_REF:R_ear_D
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_ear_C/elephant_keepSmoothIn_Unity_REF:R_ear_D/elephant_keepSmoothIn_Unity_REF:R_flappyEarStart_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_ear_C/elephant_keepSmoothIn_Unity_REF:R_flappy_middle_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:neck/elephant_keepSmoothIn_Unity_REF:head/elephant_keepSmoothIn_Unity_REF:headConnecter/elephant_keepSmoothIn_Unity_REF:R_ear_A/elephant_keepSmoothIn_Unity_REF:R_ear_B/elephant_keepSmoothIn_Unity_REF:R_flappyEarEndEnd_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:R__clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:R__clavicle/elephant_keepSmoothIn_Unity_REF:R__shoulder
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:R__clavicle/elephant_keepSmoothIn_Unity_REF:R__shoulder/elephant_keepSmoothIn_Unity_REF:R__elbow
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:R__clavicle/elephant_keepSmoothIn_Unity_REF:R__shoulder/elephant_keepSmoothIn_Unity_REF:R__elbow/elephant_keepSmoothIn_Unity_REF:R__wrist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:L__clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:L__clavicle/elephant_keepSmoothIn_Unity_REF:L__shoulder
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:L__clavicle/elephant_keepSmoothIn_Unity_REF:L__shoulder/elephant_keepSmoothIn_Unity_REF:L__elbow
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:spine_A/elephant_keepSmoothIn_Unity_REF:spineB_/elephant_keepSmoothIn_Unity_REF:spine_C/elephant_keepSmoothIn_Unity_REF:spine_D/elephant_keepSmoothIn_Unity_REF:L__clavicle/elephant_keepSmoothIn_Unity_REF:L__shoulder/elephant_keepSmoothIn_Unity_REF:L__elbow/elephant_keepSmoothIn_Unity_REF:L__wrist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:R_femur
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:R_femur/elephant_keepSmoothIn_Unity_REF:R_knee
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:R_femur/elephant_keepSmoothIn_Unity_REF:R_knee/elephant_keepSmoothIn_Unity_REF:R_ankle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:L_femur
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:L_femur/elephant_keepSmoothIn_Unity_REF:L_knee
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:L_femur/elephant_keepSmoothIn_Unity_REF:L_knee/elephant_keepSmoothIn_Unity_REF:L_ankle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:root/elephant_keepSmoothIn_Unity_REF:hip/elephant_keepSmoothIn_Unity_REF:tail_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephant_keepSmoothIn_Unity_REF:skeleton/elephant_keepSmoothIn_Unity_REF:masterCtrl/elephant_keepSmoothIn_Unity_REF:mainCtrl/elephant_keepSmoothIn_Unity_REF:ctrls/elephant_keepSmoothIn_Unity_REF:root_ctrl
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 24
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: .208333328
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

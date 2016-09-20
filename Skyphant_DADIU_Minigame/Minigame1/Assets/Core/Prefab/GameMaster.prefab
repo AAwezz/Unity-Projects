@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &140898
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 430962}
+  - 114: {fileID: 11474912}
+  - 114: {fileID: 11489440}
+  - 114: {fileID: 11443358}
+  - 114: {fileID: 11432962}
+  - 114: {fileID: 11456272}
+  m_Layer: 0
+  m_Name: GameMaster
+  m_TagString: GameMaster
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &430962
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 140898}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11432962
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 140898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1890a5107dd07f54694f1da89b95005f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ElephantStrafeSpeed: 5.86999989
+  ObstacleScale: 1.04999995
+  ObstacleSpeed: 3.3499999
+  UseLanes: 1
+  LaneWidth: 2
+  ObstacleIsEnabled: 1
+  DieSpeedFloat: 20
+--- !u!114 &11443358
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 140898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24fc86ea16da5f048b434beb78e59c80, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreText: {fileID: 0}
+  comboText: {fileID: 0}
+  lifeText: {fileID: 0}
+  lifeTimeText: {fileID: 0}
+  pointsPose: 50
+  pointsFail: 25
+  lifes: 0
+  startTime: 5
+  timePoseComplete: 10
+  timePoseFail: 5
+  timeHitObstacle: 5
+  timePoseCombo: 10
+--- !u!114 &11456272
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 140898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b98043dd4d3fd54db43dcdf4266336f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Ground: {fileID: 0}
+  Hole: {fileID: 0}
+  FrontCylinder: {fileID: 0}
+  BackCylinder: {fileID: 0}
+  MainMenuButton: {fileID: 0}
+  RestartLevelButton: {fileID: 0}
+  NavButtingLeft: {fileID: 0}
+  NavButtingRight: {fileID: 0}
+--- !u!114 &11474912
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 140898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f28e15f01bc43c4794293379c167a18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Player: {fileID: 0}
+  BackGround: {fileID: 0}
+  TapTapTapFrequency: 50
+  GoalText: {fileID: 0}
+  SecondsBeforeNewCombo: 2
+  OneImg: {fileID: 0}
+  TwoImg: {fileID: 0}
+  ThreeImg: {fileID: 0}
+  ShortSprite: {fileID: 21300000, guid: 0e11cb73e7f600a439ef0608b00caea7, type: 3}
+  LongSprite: {fileID: 21300000, guid: 8f1ba75559eb3c14d9a4c2feb909fd33, type: 3}
+  SuccessShortSprite: {fileID: 21300000, guid: 40ba91355d5a838449f2e8ed74242974, type: 3}
+  SuccessLongSprite: {fileID: 21300000, guid: 89dc5ccbee9c7094e8551d4142e07c81, type: 3}
+  FailShortSprite: {fileID: 21300000, guid: dd23af4a442631d42948b1f1e0327c16, type: 3}
+  FailLongSprite: {fileID: 21300000, guid: c01c046de504d3847bfd80838e401671, type: 3}
+  PoseButton: {fileID: 0}
+  HoldCounterText: {fileID: 0}
+--- !u!114 &11489440
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 140898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e73f7875a30ff3d48a4e2dd07440a6ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SecToLongPress: .300000012
+  HoldCounterText: {fileID: 0}
+  LeftLayerMask:
+    serializedVersion: 2
+    m_Bits: 1024
+  RightLayerMask:
+    serializedVersion: 2
+    m_Bits: 2048
+  Elephant: {fileID: 0}
+  BoundaryDist: 3
+  LeftButton: {fileID: 0}
+  RightButton: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 140898}
+  m_IsPrefabParent: 1
