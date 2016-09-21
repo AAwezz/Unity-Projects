@@ -1,0 +1,136 @@
+Initialize engine version: 4.3.1f1 (cebd4d9b5122)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 8.17.13.142]
+    Renderer: NVIDIA GeForce GTX 560M
+    Vendor:   NVIDIA
+    VRAM:     1488 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\AW Bachelor\Tekster og rapporter\Afleveringsmappe\Labymide Versioner\2.0\Windows\Labymide 2.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\AW Bachelor\Tekster og rapporter\Afleveringsmappe\Labymide Versioner\2.0\Windows\Labymide 2.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\AW Bachelor\Tekster og rapporter\Afleveringsmappe\Labymide Versioner\2.0\Windows\Labymide 2.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\AW Bachelor\Tekster og rapporter\Afleveringsmappe\Labymide Versioner\2.0\Windows\Labymide 2.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.052 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 4.3.1f1 (cebd4d9b5122)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 8.17.13.142]
+    Renderer: NVIDIA GeForce GTX 560M
+    Vendor:   NVIDIA
+    VRAM:     1488 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\AW Bachelor\Tekster og rapporter\Afleveringsmappe\Labymide Versioner\2.0\Windows\Labymide 2.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\AW Bachelor\Tekster og rapporter\Afleveringsmappe\Labymide Versioner\2.0\Windows\Labymide 2.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\AW Bachelor\Tekster og rapporter\Afleveringsmappe\Labymide Versioner\2.0\Windows\Labymide 2.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\AW Bachelor\Tekster og rapporter\Afleveringsmappe\Labymide Versioner\2.0\Windows\Labymide 2.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.067 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\AW Bachelor\Tekster og rapporter\Afleveringsmappe\Labymide Versioner\2.0\Windows\Labymide 2.0_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\AW Bachelor\Tekster og rapporter\Afleveringsmappe\Labymide Versioner\2.0\Windows\Labymide 2.0_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 0.341801 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 137.
+Total: 0.631842 ms (FindLiveObjects: 0.006693 ms CreateObjectMapping: 0.006693 ms MarkObjects: 0.127617 ms  DeleteObjects: 0.003569 ms)
+
+UnloadTime: 0.293610 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 139.
+Total: 0.880385 ms (FindLiveObjects: 0.006693 ms CreateObjectMapping: 0.006693 ms MarkObjects: 0.149482 ms  DeleteObjects: 0.004462 ms)
+
+The class defined in script file named 'Player' does not match the file name!
+ 
+(Filename:  Line: 1615)
+
+The class defined in script file named 'WinState' does not match the file name!
+ 
+(Filename:  Line: 1615)
+
+The class defined in script file named 'Player' does not match the file name!
+ 
+(Filename:  Line: 1615)
+
+The class defined in script file named 'Player' does not match the file name!
+ 
+(Filename:  Line: 1615)
+
+The class defined in script file named 'Player' does not match the file name!
+ 
+(Filename:  Line: 1615)
+
+The class defined in script file named 'Player' does not match the file name!
+ 
+(Filename:  Line: 1615)
+
+The class defined in script file named 'Player' does not match the file name!
+ 
+(Filename:  Line: 1615)
+
+The class defined in script file named 'Player' does not match the file name!
+ 
+(Filename:  Line: 1615)
+
+The class defined in script file named 'Player' does not match the file name!
+ 
+(Filename:  Line: 1615)
+
+UnloadTime: 0.381961 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6239.
+Total: 1.053963 ms (FindLiveObjects: 0.225339 ms CreateObjectMapping: 0.033912 ms MarkObjects: 0.351172 ms  DeleteObjects: 0.012940 ms)
+
+The class defined in script file named 'Player' does not match the file name!
+ 
+(Filename:  Line: 1615)
+
+The class defined in script file named 'WinState' does not match the file name!
+ 
+(Filename:  Line: 1615)
+
+The class defined in script file named 'Player' does not match the file name!
+ 
+(Filename:  Line: 1615)
+
+The class defined in script file named 'Player' does not match the file name!
+ 
+(Filename:  Line: 1615)
+
+The class defined in script file named 'Player' does not match the file name!
+ 
+(Filename:  Line: 1615)
+
+The class defined in script file named 'Player' does not match the file name!
+ 
+(Filename:  Line: 1615)
+
+The class defined in script file named 'Player' does not match the file name!
+ 
+(Filename:  Line: 1615)
+
+The class defined in script file named 'Player' does not match the file name!
+ 
+(Filename:  Line: 1615)
+
+The class defined in script file named 'Player' does not match the file name!
+ 
+(Filename:  Line: 1615)
+
+UnloadTime: 0.237833 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6237.
+Total: 2.202971 ms (FindLiveObjects: 0.319044 ms CreateObjectMapping: 0.034358 ms MarkObjects: 0.435061 ms  DeleteObjects: 0.021864 ms)
+
+The server has disconnected from the client. Most likely the server has shut down.
+ 
+(Filename:  Line: 740)
+

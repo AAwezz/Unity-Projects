@@ -1,0 +1,60 @@
+Initialize engine version: 4.3.1f1 (cebd4d9b5122)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 8.17.13.142]
+    Renderer: NVIDIA GeForce GTX 560M
+    Vendor:   NVIDIA
+    VRAM:     1488 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\AW Bachelor\Tekster og rapporter\Afleveringsmappe\Labymide Versioner\3.1\Windows\Labymide 3.1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\AW Bachelor\Tekster og rapporter\Afleveringsmappe\Labymide Versioner\3.1\Windows\Labymide 3.1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\AW Bachelor\Tekster og rapporter\Afleveringsmappe\Labymide Versioner\3.1\Windows\Labymide 3.1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\AW Bachelor\Tekster og rapporter\Afleveringsmappe\Labymide Versioner\3.1\Windows\Labymide 3.1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 4.3.1f1 (cebd4d9b5122)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 8.17.13.142]
+    Renderer: NVIDIA GeForce GTX 560M
+    Vendor:   NVIDIA
+    VRAM:     1488 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\AW Bachelor\Tekster og rapporter\Afleveringsmappe\Labymide Versioner\3.1\Windows\Labymide 3.1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\AW Bachelor\Tekster og rapporter\Afleveringsmappe\Labymide Versioner\3.1\Windows\Labymide 3.1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\AW Bachelor\Tekster og rapporter\Afleveringsmappe\Labymide Versioner\3.1\Windows\Labymide 3.1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\AW Bachelor\Tekster og rapporter\Afleveringsmappe\Labymide Versioner\3.1\Windows\Labymide 3.1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.076 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\AW Bachelor\Tekster og rapporter\Afleveringsmappe\Labymide Versioner\3.1\Windows\Labymide 3.1_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\AW Bachelor\Tekster og rapporter\Afleveringsmappe\Labymide Versioner\3.1\Windows\Labymide 3.1_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 0.321722 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 137.
+Total: 0.563125 ms (FindLiveObjects: 0.006247 ms CreateObjectMapping: 0.006693 ms MarkObjects: 0.130741 ms  DeleteObjects: 0.004015 ms)
+
+UnloadTime: 0.332877 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 139.
+Total: 0.821484 ms (FindLiveObjects: 0.007139 ms CreateObjectMapping: 0.006247 ms MarkObjects: 0.120032 ms  DeleteObjects: 0.004015 ms)
+
+UnloadTime: 0.361435 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6239.
+Total: 1.281980 ms (FindLiveObjects: 0.252112 ms CreateObjectMapping: 0.044175 ms MarkObjects: 0.435061 ms  DeleteObjects: 0.016063 ms)
+
+UnloadTime: 0.903588 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6237.
+Total: 1.174442 ms (FindLiveObjects: 0.268176 ms CreateObjectMapping: 0.033466 ms MarkObjects: 0.381961 ms  DeleteObjects: 0.014725 ms)
+
