@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <Phrases>
+    <Hello>Hello World!</Hello>
+    <StartGame>Tap anywhere to start</StartGame>
+    <Credits>Credits</Credits>
+    <Title>Skyphant</Title>
+    <Score>Your score: </Score>
+    <HighScore>Highscore: </HighScore>
+    <RestartGame>Restart level</RestartGame>
+    <LevelMenu>Level select</LevelMenu>
+    <NearMiss>Close one!!!</NearMiss>
+    <LevelOne>Level 2</LevelOne>
+    <TutoLevel>Tutorial Level</TutoLevel>
+    <ABar>In the top left corner is your adrenaline bar! If you lose all your adrenaline the game ends!</ABar>
+    <CoinsT>To move press the lower left or right part of the screen. Collect coins to earn points!</CoinsT>
+    <ObstaclesT>Avoid trees and rocks! If you crash into them you lose adrenaline! If you "near miss" a tree or a rock you gain adrenaline!</ObstaclesT>
+    <BoostT>YOU CAN TAP FALLEN TREES TO BOOST THROUGH THEM USING ADRENALINE! COINS ARE HIDDEN BEHIND THEM! YOU CAN ONLY BOOST IF YOUR ADRENALINE HAS REACHED THE MARKER ON THE BAR!</BoostT>
+  </Phrases>
+  <LanguageNames>
+    <English>English</English>
+    <Danish>Dansk</Danish>
+  </LanguageNames>
+  <TorurialName>English</TorurialName>
+  <Credits>
+Game Director	
+Klaus Tue Madsen 
+
+Art Director	
+Julie Tidsvilde Zintel
+
+Game Designer
+Simon Bentzen
+
+Project Manager	
+Amanda Natalie Rasmussen 
+
+CG Artists	
+Rosen Milev
+Nadia Hamza 
+
+Lead Programmer	
+Ivan Dimov 
+
+Programmers	
+Anders Wessberg 
+Peter Troelsen
+Bo Olsen
+
+Pipeline Programmer	
+Veselin Yanakiev
+
+QA Programmer	
+Tomas Moesgaard
+
+QA and UX	
+Dennis Godtfredsen
+Steffen Nygaard
+
+Audio Designer	
+Majbritt Løfgreen
+
+Level Designer
+Nicholas Bukdahl</Credits>
+</Root>

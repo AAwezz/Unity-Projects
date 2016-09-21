@@ -1,0 +1,4848 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: BoostAnim
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .707106829, y: -4.87388663e-09, z: -4.87388663e-09, w: .707106829}
+        inSlope: {x: -.457444668, y: -3.91368151, z: -3.91368151, w: -.457444668}
+        outSlope: {x: -.457444668, y: -3.91368151, z: -3.91368151, w: -.457444668}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: .688046634, y: -.163070068, z: -.163070068, w: .688046634}
+        inSlope: {x: -2.66232896, y: -6.17197132, z: -6.17197132, w: -2.66232896}
+        outSlope: {x: -2.66232896, y: -6.17197132, z: -6.17197132, w: -2.66232896}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .485246092, y: -.514330924, z: -.514330924, w: .485246092}
+        inSlope: {x: -8.25656033, y: -6.52844095, z: -6.52844095, w: -8.25656033}
+        outSlope: {x: -8.25656033, y: -6.52844095, z: -6.52844095, w: -8.25656033}
+        tangentMode: 0
+      - time: .125
+        value: {x: -9.41569667e-08, y: -.707106829, z: -.707106829, w: -9.41569667e-08}
+        inSlope: {x: -11.6459064, y: 2.14576721e-06, z: 2.14576721e-06, w: -11.6459064}
+        outSlope: {x: -11.6459064, y: 2.14576721e-06, z: 2.14576721e-06, w: -11.6459064}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.485246211, y: -.514330745, z: -.514330745, w: -.485246211}
+        inSlope: {x: -8.25655937, y: 6.52844238, z: 6.52844238, w: -8.25655937}
+        outSlope: {x: -8.25655937, y: 6.52844238, z: 6.52844238, w: -8.25655937}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.688046694, y: -.163069993, z: -.163069993, w: -.688046694}
+        inSlope: {x: -2.662328, y: 6.17196894, z: 6.17196894, w: -2.662328}
+        outSlope: {x: -2.662328, y: 6.17196894, z: 6.17196894, w: -2.662328}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: -.707106829, y: -8.65956127e-17, z: -8.65956127e-17, w: -.707106829}
+        inSlope: {x: -.457443029, y: 3.91367793, z: 3.91367793, w: -.457443029}
+        outSlope: {x: -.457443029, y: 3.91367793, z: 3.91367793, w: -.457443029}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.207911685, y: 0, z: -0, w: .978147626}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: -.207911685, y: 0, z: -0, w: .978147626}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: .255057633, z: -0, w: .966925859}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: .255057633, z: -0, w: .966925859}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:trunk_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: .255057633, z: -0, w: .966925859}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: .255057633, z: -0, w: .966925859}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:trunk_A/elephantRef:trunk_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: .255057633, z: -0, w: .966925859}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: .255057633, z: -0, w: .966925859}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:trunk_A/elephantRef:trunk_B/elephantRef:trunk_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: .255057633, z: -0, w: .966925859}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: .255057633, z: -0, w: .966925859}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:trunk_A/elephantRef:trunk_B/elephantRef:trunk_C/elephantRef:trunk_D
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: .255057633, z: -0, w: .966925859}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: .255057633, z: -0, w: .966925859}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:trunk_A/elephantRef:trunk_B/elephantRef:trunk_C/elephantRef:trunk_D/elephantRef:trunk_E
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: .255057633, z: -0, w: .966925859}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: .255057633, z: -0, w: .966925859}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:trunk_A/elephantRef:trunk_B/elephantRef:trunk_C/elephantRef:trunk_D/elephantRef:trunk_E/elephantRef:trunk_F
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: .0401753895, z: -0, w: .999192655}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: .0401753895, z: -0, w: .999192655}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:trunk_A/elephantRef:trunk_B/elephantRef:trunk_C/elephantRef:trunk_D/elephantRef:trunk_E/elephantRef:trunk_F/elephantRef:trunk_G
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: .0401753895, z: -0, w: .999192655}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: .0401753895, z: -0, w: .999192655}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:trunk_A/elephantRef:trunk_B/elephantRef:trunk_C/elephantRef:trunk_D/elephantRef:trunk_E/elephantRef:trunk_F/elephantRef:trunk_G/elephantRef:trunk_H
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .705888212, y: .0414956026, z: -.705888212, w: -.0414956026}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .705888212, y: .0414956026, z: -.705888212, w: -.0414956026}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:jaw
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -.350778073, w: .936458647}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: -0, z: -.350778073, w: .936458647}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .295271903, y: -.448893487, z: .11349611, w: .835719883}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .295271903, y: -.448893487, z: .11349611, w: .835719883}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .118520558, y: -.363867432, z: .12155737, w: .915847838}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .118520558, y: -.363867432, z: .12155737, w: .915847838}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0374813415, y: -.315083176, z: .0611539818, w: .9463498}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .0374813415, y: -.315083176, z: .0611539818, w: .9463498}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00198139134, y: .104509689, z: .034714438, w: .993915856}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: -.00198139134, y: .104509689, z: .034714438, w: .993915856}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_ear_E
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .697967231, y: .71612978, z: -1.11213658e-18, w: -8.65884724e-17}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .697967231, y: .71612978, z: -1.11213658e-18, w: -8.65884724e-17}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_ear_E/elephantRef:L_earFlap_13
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 2.83496448e-16, y: 1.45364932e-17, z: -.00967503712, w: .99995321}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 2.83496448e-16, y: 1.45364932e-17, z: -.00967503712, w: .99995321}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_ear_E/elephantRef:L_earFlap_13/elephantRef:L_earFlap_14
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 2.83113166e-16, y: 1.97021733e-17, z: -.0084867375, w: .999963999}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 2.83113166e-16, y: 1.97021733e-17, z: -.0084867375, w: .999963999}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_ear_E/elephantRef:L_earFlap_13/elephantRef:L_earFlap_14/elephantRef:L_earFlap_15
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .663133025, w: .748501599}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: 0, z: .663133025, w: .748501599}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_earFlap_9
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .025998842, w: .999661982}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: 0, z: .025998842, w: .999661982}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_earFlap_9/elephantRef:L_earFlap_10
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .0384649597, w: .999259949}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: 0, z: .0384649597, w: .999259949}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_earFlap_9/elephantRef:L_earFlap_10/elephantRef:L_earFlap_11
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .666132987, w: .74583298}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: 0, z: .666132987, w: .74583298}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_earFlap_5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .0315684527, w: .999501586}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: 0, z: .0315684527, w: .999501586}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_earFlap_5/elephantRef:L_earFlap_6
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .0524995476, w: .998620987}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: 0, z: .0524995476, w: .998620987}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_earFlap_5/elephantRef:L_earFlap_6/elephantRef:L_earFlap_7
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .724699855, w: .689064682}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: 0, z: .724699855, w: .689064682}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_earFlap_1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .0756589547, w: .997133791}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: 0, z: .0756589547, w: .997133791}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_earFlap_1/elephantRef:L_earFlap_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .0840042681, w: .996465385}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: 0, z: .0840042681, w: .996465385}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_earFlap_1/elephantRef:L_earFlap_2/elephantRef:L_earFlap_3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .936458647, y: .350778073, z: -2.14789622e-17, w: -5.73415497e-17}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .936458647, y: .350778073, z: -2.14789622e-17, w: -5.73415497e-17}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .295271933, y: -.448893487, z: .11349611, w: .835719883}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .295271933, y: -.448893487, z: .11349611, w: .835719883}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .11852058, y: -.363867432, z: .121557385, w: .915847838}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .11852058, y: -.363867432, z: .121557385, w: .915847838}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0374813713, y: -.315083146, z: .0611540154, w: .9463498}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .0374813713, y: -.315083146, z: .0611540154, w: .9463498}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00198132545, y: .104509681, z: .0347144157, w: .993915856}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: -.00198132545, y: .104509681, z: .0347144157, w: .993915856}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_ear_E
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .697967231, y: .71612978, z: -9.29399562e-08, w: 9.53584518e-08}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .697967231, y: .71612978, z: -9.29399562e-08, w: 9.53584518e-08}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_ear_E/elephantRef:R_earFlap_13
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 7.45023199e-09, y: -7.16640029e-12, z: -.00967503712, w: .99995321}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 7.45023199e-09, y: -7.16640029e-12, z: -.00967503712, w: .99995321}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_ear_E/elephantRef:R_earFlap_13/elephantRef:R_earFlap_14
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.05363327e-08, y: 3.24201568e-11, z: -.0084867375, w: .999963999}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1.05363327e-08, y: 3.24201568e-11, z: -.0084867375, w: .999963999}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_ear_E/elephantRef:R_earFlap_13/elephantRef:R_earFlap_14/elephantRef:R_earFlap_15
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 3.68596673e-08, y: 1.18155825e-07, z: .663133025, w: .748501599}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 3.68596673e-08, y: 1.18155825e-07, z: .663133025, w: .748501599}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_earFlap_9
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.21267689e-07, y: 1.42818513e-08, z: .025998842, w: .999661982}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1.21267689e-07, y: 1.42818513e-08, z: .025998842, w: .999661982}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_earFlap_9/elephantRef:R_earFlap_10
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 2.38672612e-07, y: 3.2044575e-08, z: .0384649597, w: .999259949}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 2.38672612e-07, y: 3.2044575e-08, z: .0384649597, w: .999259949}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_earFlap_9/elephantRef:R_earFlap_10/elephantRef:R_earFlap_11
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 2.14456293e-08, y: 6.28393906e-08, z: .666132987, w: .74583298}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 2.14456293e-08, y: 6.28393906e-08, z: .666132987, w: .74583298}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_earFlap_5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 5.86298441e-08, y: 1.00451221e-08, z: .0315684527, w: .999501586}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 5.86298441e-08, y: 1.00451221e-08, z: .0315684527, w: .999501586}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_earFlap_5/elephantRef:R_earFlap_6
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.1471225e-07, y: 2.22889049e-08, z: .0524995476, w: .998620987}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1.1471225e-07, y: 2.22889049e-08, z: .0524995476, w: .998620987}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_earFlap_5/elephantRef:R_earFlap_6/elephantRef:R_earFlap_7
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 9.49580148e-09, y: 2.55661572e-08, z: .724699855, w: .689064682}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 9.49580148e-09, y: 2.55661572e-08, z: .724699855, w: .689064682}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_earFlap_1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 3.20457403e-08, y: 1.13788801e-08, z: .0756589547, w: .997133791}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 3.20457403e-08, y: 1.13788801e-08, z: .0756589547, w: .997133791}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_earFlap_1/elephantRef:R_earFlap_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 6.25578096e-08, y: 2.01107024e-08, z: .0840042681, w: .996465385}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 6.25578096e-08, y: 2.01107024e-08, z: .0840042681, w: .996465385}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_earFlap_1/elephantRef:R_earFlap_2/elephantRef:R_earFlap_3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -3.46944695e-17, y: -.144684881, z: 1.2490009e-16, w: .989477813}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: -3.46944695e-17, y: -.144684881, z: 1.2490009e-16, w: .989477813}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:L_clavicle/elephantRef:L_shoulder
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 6.77626317e-21, y: .0159096457, z: 1.73472348e-18, w: .999873459}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 6.77626317e-21, y: .0159096457, z: 1.73472348e-18, w: .999873459}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:L_clavicle/elephantRef:L_shoulder/elephantRef:L_elbow
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .70710516, y: .00153717794, z: -.00153717794, w: .70710516}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .70710516, y: .00153717794, z: -.00153717794, w: .70710516}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:L_clavicle/elephantRef:L_shoulder/elephantRef:L_elbow/elephantRef:L_wrist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 3.46924078e-18, y: -.144684881, z: 1.65049184e-17, w: .989477813}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 3.46924078e-18, y: -.144684881, z: 1.65049184e-17, w: .989477813}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:R_clavicle/elephantRef:R_shoulder
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 3.38318486e-21, y: .0159096457, z: -2.79142917e-17, w: .999873459}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 3.38318486e-21, y: .0159096457, z: -2.79142917e-17, w: .999873459}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:R_clavicle/elephantRef:R_shoulder/elephantRef:R_elbow
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .70710516, y: .00153717794, z: -.00153717794, w: .70710516}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .70710516, y: .00153717794, z: -.00153717794, w: .70710516}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:R_clavicle/elephantRef:R_shoulder/elephantRef:R_elbow/elephantRef:R_wrist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .181965292, w: .983304977}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: 0, z: .181965292, w: .983304977}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:L_wing_BA
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .488611937, w: .872501194}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: 0, z: .488611937, w: .872501194}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:L_wing_BA/elephantRef:L_wing_BB
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .983304977, y: -.181965292, z: 1.11421609e-17, w: -6.02100599e-17}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .983304977, y: -.181965292, z: 1.11421609e-17, w: -6.02100599e-17}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:R_wing_BA
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.9752494e-17, y: 9.02721856e-17, z: .488611937, w: .872501194}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1.9752494e-17, y: 9.02721856e-17, z: .488611937, w: .872501194}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:R_wing_BA/elephantRef:R_wing_BB
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .280037552, w: .959989071}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: 0, z: .280037552, w: .959989071}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:L_wing_AA
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .00435438426, w: .999990523}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 0, y: 0, z: .00435438426, w: .999990523}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:L_wing_AA/elephantRef:L_wing_AB
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .959989071, y: -.280037552, z: -1.71473548e-17, w: 5.87823726e-17}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .959989071, y: -.280037552, z: -1.71473548e-17, w: 5.87823726e-17}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:R_wing_AA
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.07364082e-08, y: -3.44179263e-09, z: .00435438426, w: .999990523}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1.07364082e-08, y: -3.44179263e-09, z: .00435438426, w: .999990523}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:R_wing_AA/elephantRef:R_wing_AB
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 6.12323426e-17, y: 1, z: -6.12323426e-17, w: -6.12323426e-17}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 6.12323426e-17, y: 1, z: -6.12323426e-17, w: -6.12323426e-17}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .502769947, y: .497214615, z: .497214615, w: .502769947}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .502769947, y: .497214615, z: .497214615, w: .502769947}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:L_femur
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 5.55111512e-17, y: .00555529818, z: 2.2204442e-16, w: .999984562}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 5.55111512e-17, y: .00555529818, z: 2.2204442e-16, w: .999984562}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:L_femur/elephantRef:L_knee
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .5, y: .5, z: -.5, w: .5}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .5, y: .5, z: -.5, w: .5}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:L_femur/elephantRef:L_knee/elephantRef:L_ancle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.502769947, y: .497214615, z: -.497214615, w: .502769947}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: -.502769947, y: .497214615, z: -.497214615, w: .502769947}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:R_femur
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 2.22044631e-16, y: .00555529818, z: 4.88251687e-15, w: .999984562}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 2.22044631e-16, y: .00555529818, z: 4.88251687e-15, w: .999984562}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:R_femur/elephantRef:R_knee
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .5, y: .5, z: -.5, w: .5}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .5, y: .5, z: -.5, w: .5}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:R_femur/elephantRef:R_knee/elephantRef:R_ancle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .420603275, y: .568412602, z: .420603275, w: .568412602}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .420603275, y: .568412602, z: .420603275, w: .568412602}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:joint1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -3.85976006e-17, y: -6.66124656e-16, z: -.00396816013, w: .999992132}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: -3.85976006e-17, y: -6.66124656e-16, z: -.00396816013, w: .999992132}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:joint1/elephantRef:joint2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.30104271e-18, y: -2.775588e-16, z: .00396816013, w: .999992132}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: -1.30104271e-18, y: -2.775588e-16, z: .00396816013, w: .999992132}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:joint1/elephantRef:joint2/elephantRef:joint3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 7.80625564e-17, y: -5.55102354e-16, z: .00396816013, w: .999992132}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 7.80625564e-17, y: -5.55102354e-16, z: .00396816013, w: .999992132}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:joint1/elephantRef:joint2/elephantRef:joint3/elephantRef:joint4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -8.67361841e-19, y: -7.21605155e-16, z: .0040311357, w: .999991894}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: -8.67361841e-19, y: -7.21605155e-16, z: .0040311357, w: .999991894}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:joint1/elephantRef:joint2/elephantRef:joint3/elephantRef:joint4/elephantRef:joint5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 8.67361221e-19, y: -7.77137006e-16, z: -.0177059099, w: .99984324}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 8.67361221e-19, y: -7.77137006e-16, z: -.0177059099, w: .99984324}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:joint1/elephantRef:joint2/elephantRef:joint3/elephantRef:joint4/elephantRef:joint5/elephantRef:joint6
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0013331261, y: .576513946, z: -7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.0013331261, y: .576513946, z: -7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .000948163157, y: .0307513829, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .000948163157, y: .0307513829, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.000630912255, y: .1129333, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.000630912255, y: .1129333, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .000630912255, y: .106624171, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .000630912255, y: .106624171, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.30451205e-17, y: .111369543, z: -7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: 1.30451205e-17, y: .111369543, z: -7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .000822967326, y: -.0651599392, z: .395515621}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .000822967326, y: -.0651599392, z: .395515621}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:trunk_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 5.77315952e-17, y: -2.84217088e-16, z: .142359927}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: 5.77315952e-17, y: -2.84217088e-16, z: .142359927}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:trunk_A/elephantRef:trunk_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -7.1054272e-17, y: -1.42108544e-16, z: .162099525}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -7.1054272e-17, y: -1.42108544e-16, z: .162099525}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:trunk_A/elephantRef:trunk_B/elephantRef:trunk_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 3.5527136e-17, y: 1.42108544e-16, z: .159527734}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: 3.5527136e-17, y: 1.42108544e-16, z: .159527734}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:trunk_A/elephantRef:trunk_B/elephantRef:trunk_C/elephantRef:trunk_D
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00248572486, y: .000627841626, z: .188762739}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.00248572486, y: .000627841626, z: .188762739}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:trunk_A/elephantRef:trunk_B/elephantRef:trunk_C/elephantRef:trunk_D/elephantRef:trunk_E
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .00247585564, y: .000149841304, z: .202321932}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .00247585564, y: .000149841304, z: .202321932}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:trunk_A/elephantRef:trunk_B/elephantRef:trunk_C/elephantRef:trunk_D/elephantRef:trunk_E/elephantRef:trunk_F
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.000985565828, y: .000110473629, z: .159201041}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.000985565828, y: .000110473629, z: .159201041}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:trunk_A/elephantRef:trunk_B/elephantRef:trunk_C/elephantRef:trunk_D/elephantRef:trunk_E/elephantRef:trunk_F/elephantRef:trunk_G
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .00173492904, y: 4.21142577e-05, z: .136671901}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .00173492904, y: 4.21142577e-05, z: .136671901}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:trunk_A/elephantRef:trunk_B/elephantRef:trunk_C/elephantRef:trunk_D/elephantRef:trunk_E/elephantRef:trunk_F/elephantRef:trunk_G/elephantRef:trunk_H
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .000822967326, y: -.221497968, z: .137294397}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .000822967326, y: -.221497968, z: .137294397}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:jaw
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.312781692, y: .207105935, z: -.0059864372}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.312781692, y: .207105935, z: -.0059864372}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.105296068, y: -2.84217088e-16, z: -7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.105296068, y: -2.84217088e-16, z: -7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.181083083, y: 2.84217088e-16, z: 1.77635673e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.181083083, y: 2.84217088e-16, z: 1.77635673e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.230340213, y: 5.90206801e-05, z: -.000393791241}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.230340213, y: 5.90206801e-05, z: -.000393791241}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.232186124, y: -2.71352801e-05, z: .000354256015}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.232186124, y: -2.71352801e-05, z: .000354256015}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_ear_E
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.000325697183, y: -.0204103552, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.000325697183, y: -.0204103552, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_ear_E/elephantRef:L_earFlap_13
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.163445324, y: -2.13162816e-16, z: -1.42108544e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.163445324, y: -2.13162816e-16, z: -1.42108544e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_ear_E/elephantRef:L_earFlap_13/elephantRef:L_earFlap_14
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.1488377, y: -7.1054272e-17, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.1488377, y: -7.1054272e-17, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_ear_E/elephantRef:L_earFlap_13/elephantRef:L_earFlap_14/elephantRef:L_earFlap_15
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 2.77550953e-05, y: -.0215768125, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: 2.77550953e-05, y: -.0215768125, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_earFlap_9
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.176191092, y: -1.77635673e-16, z: -2.84217088e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.176191092, y: -1.77635673e-16, z: -2.84217088e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_earFlap_9/elephantRef:L_earFlap_10
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.166825324, y: 3.55271347e-16, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.166825324, y: 3.55271347e-16, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_earFlap_9/elephantRef:L_earFlap_10/elephantRef:L_earFlap_11
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0151211731, y: -.0304765273, z: 2.84217088e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.0151211731, y: -.0304765273, z: 2.84217088e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_earFlap_5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.179011613, y: 1.42108544e-16, z: -2.13162816e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.179011613, y: 1.42108544e-16, z: -2.13162816e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_earFlap_5/elephantRef:L_earFlap_6
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.177144736, y: -4.26325632e-16, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.177144736, y: -4.26325632e-16, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_earFlap_5/elephantRef:L_earFlap_6/elephantRef:L_earFlap_7
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0114415353, y: -.0469806083, z: 7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.0114415353, y: -.0469806083, z: 7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_earFlap_1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.158593163, y: -2.84217088e-16, z: -1.06581408e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.158593163, y: -2.84217088e-16, z: -1.06581408e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_earFlap_1/elephantRef:L_earFlap_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.158977881, y: -1.42108544e-16, z: -7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.158977881, y: -1.42108544e-16, z: -7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_earFlap_1/elephantRef:L_earFlap_2/elephantRef:L_earFlap_3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .31278196, y: .207105786, z: -.0059864372}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .31278196, y: .207105786, z: -.0059864372}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .105297357, y: -2.55252189e-06, z: -1.42108544e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .105297357, y: -2.55252189e-06, z: -1.42108544e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .18108356, y: -1.50302668e-07, z: 3.8369305e-15}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .18108356, y: -1.50302668e-07, z: 3.8369305e-15}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .230666459, y: 1.29760701e-06, z: -.000596546743}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .230666459, y: 1.29760701e-06, z: -.000596546743}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .231678843, y: 4.37110111e-06, z: -5.69002636e-13}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .231678843, y: 4.37110111e-06, z: -5.69002636e-13}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_ear_E
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .000325650006, y: .0204074029, z: -5.3314464e-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .000325650006, y: .0204074029, z: -5.3314464e-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_ear_E/elephantRef:R_earFlap_13
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .163451523, y: 4.57935994e-06, z: -4.76256881e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .163451523, y: 4.57935994e-06, z: -4.76256881e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_ear_E/elephantRef:R_earFlap_13/elephantRef:R_earFlap_14
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .148836806, y: -6.32409638e-07, z: -8.29138008e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .148836806, y: -6.32409638e-07, z: -8.29138008e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_ear_E/elephantRef:R_earFlap_13/elephantRef:R_earFlap_14/elephantRef:R_earFlap_15
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -2.79691722e-05, y: .0215797964, z: -2.80883561e-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -2.79691722e-05, y: .0215797964, z: -2.80883561e-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_earFlap_9
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .176190928, y: 4.05499122e-07, z: 3.11946163e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .176190928, y: 4.05499122e-07, z: 3.11946163e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_earFlap_9/elephantRef:R_earFlap_10
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .166823596, y: -2.58318181e-07, z: -1.6782119e-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .166823596, y: -2.58318181e-07, z: -1.6782119e-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_earFlap_9/elephantRef:R_earFlap_10/elephantRef:R_earFlap_11
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0151207233, y: .0304792151, z: -2.12681739e-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .0151207233, y: .0304792151, z: -2.12681739e-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_earFlap_5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .179009572, y: -1.64712091e-07, z: -4.46152976e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .179009572, y: -1.64712091e-07, z: -4.46152976e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_earFlap_5/elephantRef:R_earFlap_6
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .17714861, y: 8.19436025e-07, z: -1.64898351e-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .17714861, y: 8.19436025e-07, z: -1.64898351e-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_earFlap_5/elephantRef:R_earFlap_6/elephantRef:R_earFlap_7
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0114393486, y: .0469864942, z: -1.21270083e-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .0114393486, y: .0469864942, z: -1.21270083e-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_earFlap_1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .1585906, y: -1.22277061e-06, z: 7.2120085e-14}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .1585906, y: -1.22277061e-06, z: 7.2120085e-14}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_earFlap_1/elephantRef:R_earFlap_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .158976763, y: -4.85071212e-07, z: -1.41828571e-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .158976763, y: -4.85071212e-07, z: -1.41828571e-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_earFlap_1/elephantRef:R_earFlap_2/elephantRef:R_earFlap_3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.11007525, y: 7.1054272e-17, z: .0157106109}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.11007525, y: 7.1054272e-17, z: .0157106109}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:L_clavicle/elephantRef:L_shoulder
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.242218986, y: .0383089781, z: -.00112151878}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.242218986, y: .0383089781, z: -.00112151878}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:L_clavicle/elephantRef:L_shoulder/elephantRef:L_elbow
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.2065745, y: -.0383089781, z: 4.97379917e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.2065745, y: -.0383089781, z: 4.97379917e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:L_clavicle/elephantRef:L_shoulder/elephantRef:L_elbow/elephantRef:L_wrist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .113142304, y: -7.1054272e-17, z: -.0175120998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .113142304, y: -7.1054272e-17, z: -.0175120998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:R_clavicle/elephantRef:R_shoulder
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .238663971, y: -.0383090079, z: .00124959752}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .238663971, y: -.0383090079, z: .00124959752}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:R_clavicle/elephantRef:R_shoulder/elephantRef:R_elbow
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .206574947, y: .0383090079, z: -1.4347691e-07}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .206574947, y: .0383090079, z: -1.4347691e-07}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:R_clavicle/elephantRef:R_shoulder/elephantRef:R_elbow/elephantRef:R_wrist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.267030329, y: .0172361713, z: 7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.267030329, y: .0172361713, z: 7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:L_wing_BA
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.17055963, y: 8.17124108e-16, z: -1.42108544e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.17055963, y: 8.17124108e-16, z: -1.42108544e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:L_wing_BA/elephantRef:L_wing_BB
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .267029881, y: .0172363371, z: 7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .267029881, y: .0172363371, z: 7.1054272e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:R_wing_BA
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .170560047, y: 2.90756986e-07, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .170560047, y: 2.90756986e-07, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:R_wing_BA/elephantRef:R_wing_BB
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.294364303, y: -.0128826639, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.294364303, y: -.0128826639, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:L_wing_AA
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0780446678, y: 3.90798503e-16, z: -1.42108544e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.0780446678, y: 3.90798503e-16, z: -1.42108544e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:L_wing_AA/elephantRef:L_wing_AB
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .294363946, y: -.0128823649, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .294363946, y: -.0128823649, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:R_wing_AA
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0780447051, y: 2.4439359e-08, z: 4.26325632e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .0780447051, y: 2.4439359e-08, z: 4.26325632e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:R_wing_AA/elephantRef:R_wing_AB
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: -.0477791689, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -0, y: -.0477791689, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .130306825, y: -.0304049253, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .130306825, y: -.0304049253, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:L_femur
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.1954723, y: -.025755439, z: 1.7763568e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.1954723, y: -.025755439, z: 1.7763568e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:L_femur/elephantRef:L_knee
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.199803784, y: .025755439, z: -8.88178367e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.199803784, y: .025755439, z: -8.88178367e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:L_femur/elephantRef:L_knee/elephantRef:L_ancle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.130307123, y: -.0304048117, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.130307123, y: -.0304048117, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:R_femur
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .195472062, y: .0257553998, z: 2.22208499e-07}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .195472062, y: .0257553998, z: 2.22208499e-07}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:R_femur/elephantRef:R_knee
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .199803993, y: -.0257553998, z: -2.02504677e-15}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: .199803993, y: -.0257553998, z: -2.02504677e-15}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:R_femur/elephantRef:R_knee/elephantRef:R_ancle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0013331261, y: -.0073325485, z: .220878392}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.0013331261, y: -.0073325485, z: .220878392}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:joint1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0994221568, y: -1.42108544e-16, z: -1.12525415e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.0994221568, y: -1.42108544e-16, z: -1.12525415e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:joint1/elephantRef:joint2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0971130729, y: -1.42108544e-16, z: -1.09884863e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.0971130729, y: -1.42108544e-16, z: -1.09884863e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:joint1/elephantRef:joint2/elephantRef:joint3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0963393003, y: 1.42108544e-16, z: -1.09305214e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.0963393003, y: 1.42108544e-16, z: -1.09305214e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:joint1/elephantRef:joint2/elephantRef:joint3/elephantRef:joint4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0971130729, y: -1.27897687e-15, z: -1.10474438e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.0971130729, y: -1.27897687e-15, z: -1.10474438e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:joint1/elephantRef:joint2/elephantRef:joint3/elephantRef:joint4/elephantRef:joint5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.096351631, y: -5.68434176e-16, z: -1.09894789e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -.096351631, y: -5.68434176e-16, z: -1.09894789e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:joint1/elephantRef:joint2/elephantRef:joint3/elephantRef:joint4/elephantRef:joint5/elephantRef:joint6
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:jaw
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_ear_E
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_ear_E/elephantRef:L_earFlap_13
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_ear_E/elephantRef:L_earFlap_13/elephantRef:L_earFlap_14
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_ear_E/elephantRef:L_earFlap_13/elephantRef:L_earFlap_14/elephantRef:L_earFlap_15
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_earFlap_9
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_earFlap_9/elephantRef:L_earFlap_10
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_ear_D/elephantRef:L_earFlap_9/elephantRef:L_earFlap_10/elephantRef:L_earFlap_11
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_earFlap_5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_earFlap_5/elephantRef:L_earFlap_6
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_ear_C/elephantRef:L_earFlap_5/elephantRef:L_earFlap_6/elephantRef:L_earFlap_7
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_earFlap_1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_earFlap_1/elephantRef:L_earFlap_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:L_ear_A/elephantRef:L_ear_B/elephantRef:L_earFlap_1/elephantRef:L_earFlap_2/elephantRef:L_earFlap_3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_ear_E
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_ear_E/elephantRef:R_earFlap_13
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_ear_E/elephantRef:R_earFlap_13/elephantRef:R_earFlap_14
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_ear_E/elephantRef:R_earFlap_13/elephantRef:R_earFlap_14/elephantRef:R_earFlap_15
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_earFlap_9
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_earFlap_9/elephantRef:R_earFlap_10
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_ear_D/elephantRef:R_earFlap_9/elephantRef:R_earFlap_10/elephantRef:R_earFlap_11
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_earFlap_5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_earFlap_5/elephantRef:R_earFlap_6
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_ear_C/elephantRef:R_earFlap_5/elephantRef:R_earFlap_6/elephantRef:R_earFlap_7
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_earFlap_1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_earFlap_1/elephantRef:R_earFlap_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:neck/elephantRef:neckEnd/elephantRef:headStabilizer/elephantRef:R_ear_A/elephantRef:R_ear_B/elephantRef:R_earFlap_1/elephantRef:R_earFlap_2/elephantRef:R_earFlap_3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:L_clavicle/elephantRef:L_shoulder
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:L_clavicle/elephantRef:L_shoulder/elephantRef:L_elbow
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:L_clavicle/elephantRef:L_shoulder/elephantRef:L_elbow/elephantRef:L_wrist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:R_clavicle/elephantRef:R_shoulder
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:R_clavicle/elephantRef:R_shoulder/elephantRef:R_elbow
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:spine_C/elephantRef:spine_D_end/elephantRef:R_clavicle/elephantRef:R_shoulder/elephantRef:R_elbow/elephantRef:R_wrist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:L_wing_BA
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:L_wing_BA/elephantRef:L_wing_BB
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:R_wing_BA
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:spine_B/elephantRef:R_wing_BA/elephantRef:R_wing_BB
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:L_wing_AA
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:L_wing_AA/elephantRef:L_wing_AB
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:R_wing_AA
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:spine_A/elephantRef:R_wing_AA/elephantRef:R_wing_AB
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:L_femur
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:L_femur/elephantRef:L_knee
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:L_femur/elephantRef:L_knee/elephantRef:L_ancle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:R_femur
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:R_femur/elephantRef:R_knee
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:R_femur/elephantRef:R_knee/elephantRef:R_ancle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:joint1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:joint1/elephantRef:joint2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:joint1/elephantRef:joint2/elephantRef:joint3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:joint1/elephantRef:joint2/elephantRef:joint3/elephantRef:joint4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:joint1/elephantRef:joint2/elephantRef:joint3/elephantRef:joint4/elephantRef:joint5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: elephantRef:skeleton/elephantRef:master_ctrl/elephantRef:main_ctrl/elephantRef:root/elephantRef:pelvis/elephantRef:joint1/elephantRef:joint2/elephantRef:joint3/elephantRef:joint4/elephantRef:joint5/elephantRef:joint6
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 24
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 4051861592
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2972331373
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2365149547
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4051861592
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 934522834
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 722253181
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2524353150
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3561615841
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3872780751
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 247962042
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4222304593
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 253146369
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 630002998
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2063569697
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1268665813
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3608455064
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2090384993
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3978236729
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 333315684
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1328353616
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1871750711
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 867705234
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4064086458
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3734502489
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2978767390
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3238768833
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4201205559
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1521270829
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1418887709
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 175995825
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1584484742
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3980020998
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2863689896
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3507602067
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3674141866
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 76757487
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 671815035
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2581244101
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 803060339
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2086862255
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1218860636
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3200601254
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1376059936
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1003236093
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 622030255
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 741048733
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 7401493
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 917289652
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2366159418
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2078801090
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3788513043
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1947027264
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 321190598
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1274392222
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1315640922
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4174856511
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3571291864
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2176413057
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2317100628
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3854300258
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1359939273
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 628166567
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1251819950
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1098094148
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2442027315
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4058782149
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2148231206
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2788168920
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3672259684
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3085602741
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1598676038
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 798056327
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2939555914
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1038008692
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 745992963
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3433290485
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 7045973
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2644599162
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2972331373
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2365149547
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 934522834
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 722253181
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2524353150
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3561615841
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3872780751
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 247962042
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4222304593
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 253146369
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 630002998
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2063569697
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1268665813
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3608455064
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2090384993
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3978236729
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 333315684
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1328353616
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1871750711
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 867705234
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4064086458
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3734502489
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2978767390
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3238768833
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4201205559
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1521270829
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1418887709
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 175995825
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1584484742
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3980020998
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2863689896
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3507602067
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3674141866
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 76757487
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 671815035
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2581244101
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 803060339
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2086862255
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1218860636
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3200601254
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1376059936
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1003236093
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 622030255
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 741048733
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 7401493
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 917289652
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2366159418
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2078801090
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3788513043
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1947027264
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 321190598
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1274392222
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1315640922
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4174856511
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3571291864
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2176413057
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2317100628
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3854300258
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1359939273
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 628166567
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1251819950
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1098094148
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2442027315
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4058782149
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2148231206
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2788168920
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3672259684
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3085602741
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1598676038
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 798056327
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2939555914
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1038008692
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 745992963
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3433290485
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 7045973
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2644599162
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2972331373
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2090384993
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3978236729
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 333315684
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1328353616
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1871750711
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 867705234
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4064086458
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3734502489
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2978767390
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3238768833
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4201205559
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1521270829
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1418887709
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 175995825
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1584484742
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3980020998
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2863689896
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3507602067
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3674141866
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 76757487
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 671815035
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2581244101
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 803060339
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2086862255
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1218860636
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3200601254
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1376059936
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1003236093
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 622030255
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 741048733
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 7401493
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 917289652
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2366159418
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2078801090
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3788513043
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1947027264
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 321190598
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1274392222
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1315640922
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4174856511
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3571291864
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2176413057
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2317100628
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3854300258
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1359939273
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 628166567
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1251819950
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1098094148
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2442027315
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4058782149
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2148231206
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2788168920
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3672259684
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3085602741
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1598676038
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 798056327
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2939555914
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1038008692
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 745992963
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3433290485
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 7045973
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2644599162
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: .25000003
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

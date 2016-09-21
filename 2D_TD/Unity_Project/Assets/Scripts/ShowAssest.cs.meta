@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 6428ef02742f8614a863ebffaa53eb6a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - range: {instanceID: 0}
+  - sell: {fileID: 100006, guid: 73126ac976e0e4147b80ec5dfedd87ee, type: 2}
+  - upgrade: {fileID: 100004, guid: 73126ac976e0e4147b80ec5dfedd87ee, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
