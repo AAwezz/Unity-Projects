@@ -1,0 +1,31 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro 4000 (ID=0x6dd)
+    Vendor:   NVIDIA
+    VRAM:     1998 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 88)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\2D TD\2D TD Game\2DTD_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\2D TD\2D TD Game\2DTD_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\2D TD\2D TD Game\2DTD_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\2D TD\2D TD Game\2DTD_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\2D TD\2D TD Game\2DTD_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\2D TD\2D TD Game\2DTD_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\2D TD\2D TD Game\2DTD_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\2D TD\2D TD Game\2DTD_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.103 seconds
+Platform assembly: D:\2D TD\2D TD Game\2DTD_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\2D TD\2D TD Game\2DTD_Data\Managed\System.dll (this message is harmless)
+desktop: 1680x1050 120Hz; virtual: 3360x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.670898 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 14ec -> priority: 1 
+  Thread -> id: d84 -> priority: 1 
